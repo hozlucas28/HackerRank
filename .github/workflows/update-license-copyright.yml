@@ -24,6 +24,7 @@ jobs:
           fetch-depth: 0
 
       - name: "Update license copyright year(s)"
+        id: update_license_copyright_years
         uses: FantasticFiasco/action-update-license-year@d837fc83ecb71196807bdf3854208f556e66f6ed
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -35,6 +36,7 @@ jobs:
           labels: "bot,github actions"
 
       - name: "Merge pull request of updated license"
+        if: ${{ steps.update_license_copyright_years.outputs.currentYear }}
         run: gh pr merge --merge --delete-branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
