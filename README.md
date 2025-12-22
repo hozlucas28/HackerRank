@@ -64,7 +64,7 @@ This repository serves as a housing solutions to algorithms challenges from Prac
 
 ## License
 
-This repository is under [MIT License](./LICENSE), if you want to see what you are allowed to do with the content of this repository, please visit [choosealicense](https://choosealicense.com/licenses/) for more information.
+This repository is under [MIT license](./LICENSE), if you want to see what you are allowed to do with the content of this repository, please visit [choosealicense.com](https://choosealicense.com/licenses/) for more information.
 
 ## Contact
 
