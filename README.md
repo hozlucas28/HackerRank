@@ -15,6 +15,12 @@
     <a href="#contact">Contact</a>
 </p>
 
+<p align="center">
+		<a href="https://www.hackerrank.com/" target="_blank">
+			<img src=".github/docs/assets/hackerrank-logo.png" alt='"HackerRank" logo' width="800">
+		</a>
+</p>
+
 ## Summary
 
 This repository serves as a housing solutions to <a href="https://www.hackerrank.com/" target="_blank">HackerRank<a> challenges. HackerRank is a platform where developers can practice coding skills, prepare for interviews, and get hired by top tech companies.
@@ -50,8 +56,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 |     #     | Challenge | Difficulty | Score earned |         Description         |
 | :-------: | --------- | :--------: | :----------: | :-------------------------: |
-|    XXX    | XXX       |   🟢🟠🔴   |   **XXX**    | [Show](./src/challenge-XXX) |
-| **Total** | **/**     |  **XXX**   |    **/**     |
+|    XXX    | XXX       |  🟢🟠🔴  |   **XXX**    | [Show](./src/challenge-XXX) |
+| **Total** |           |  **/**     |    **XXX**   |      **/**                  |
 
 ## Related
 
