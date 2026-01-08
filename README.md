@@ -1,9 +1,9 @@
 <h1 align="center">
-    HackerRank Algorithms
+    HackerRank
 </h1>
 
 <p align="center">
-    <strong>Repository with the solutions of the Algorithms Practice Skills by <a href="https://www.hackerrank.com/" target="_blank">HackerRank<a>.</strong>
+    <strong>Repository with the solutions of <a href="https://www.hackerrank.com/" target="_blank">HackerRank<a> challenges.</strong>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## Summary
 
-This repository serves as a housing solutions to algorithms challenges from Practice Skills section of <a href="https://www.hackerrank.com/" target="_blank">HackerRank<a>. HackerRank is a platform where developers can practice coding skills, prepare for interviews, and get hired by top tech companies.
+This repository serves as a housing solutions to <a href="https://www.hackerrank.com/" target="_blank">HackerRank<a> challenges. HackerRank is a platform where developers can practice coding skills, prepare for interviews, and get hired by top tech companies.
 
 > This repository contains solutions in Node.js (with TypeScript), and Go (Golang).
 
