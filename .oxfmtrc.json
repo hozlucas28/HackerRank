@@ -1,4 +1,5 @@
 {
+	"$schema": "./node_modules/oxfmt/configuration_schema.json",
 	"endOfLine": "lf",
 	"useTabs": true,
 	"tabWidth": 4,
@@ -13,25 +14,29 @@
 	"arrowParens": "avoid",
 	"objectWrap": "preserve",
 	"trailingComma": "none",
+	"insertFinalNewline": true,
+	"vueIndentScriptAndStyle": true,
 	"htmlWhitespaceSensitivity": "ignore",
 	"embeddedLanguageFormatting": "auto",
+
+	"proseWrap": "preserve",
+	"experimentalSortPackageJson": false,
+
 	"overrides": [
 		{
-			"files": [
-				"*.{yml,yaml}"
-			],
+			"files": ["*yaml"],
 			"options": {
 				"useTabs": false,
 				"tabWidth": 2
 			}
 		},
 		{
-			"files": [
-				"*.md"
-			],
+			"files": ["*.md"],
 			"options": {
 				"tabWidth": 2
 			}
 		}
-	]
+	],
+
+	"ignorePatterns": []
 }

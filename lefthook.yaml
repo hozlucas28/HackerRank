@@ -1,0 +1,8 @@
+assert_lefthook_installed: true
+
+pre-commit:
+  jobs:
+    - name: " Format with Oxc"
+      run: bun run oxfmt --no-error-on-unmatched-pattern {staged_files}
+      glob: "*"
+      stage_fixed: true

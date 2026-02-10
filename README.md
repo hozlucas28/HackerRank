@@ -56,8 +56,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 |     #     | Challenge | Difficulty | Score earned |         Description         |
 | :-------: | --------- | :--------: | :----------: | :-------------------------: |
-|    XXX    | XXX       |  🟢🟠🔴  |   **XXX**    | [Show](./src/challenge-XXX) |
-| **Total** |           |  **/**     |    **XXX**   |      **/**                  |
+|    XXX    | XXX       |   🟢🟠🔴   |   **XXX**    | [Show](./src/challenge-XXX) |
+| **Total** |           |   **/**    |   **XXX**    |            **/**            |
 
 ## Related
 

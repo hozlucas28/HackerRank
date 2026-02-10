@@ -2,14 +2,6 @@
 	"version": "0.2",
 	"language": "es,es-ES,en,en-US,en-GB",
 	"useGitignore": true,
-	"words": [
-		"devcontainers",
-		"gnupg",
-		"hackerrank",
-		"lefthook"
-	],
-	"ignorePaths": [
-		"**/.devcontainer/devcontainer.json",
-		"**/.gitignore"
-	]
+	"words": ["hackerrank", "lefthook", "oxfmt"],
+	"ignorePaths": [".devcontainer/devcontainer.json", "package.json"]
 }
