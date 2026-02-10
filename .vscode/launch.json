@@ -2,11 +2,11 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
-			"name": "Run Go (Golang) file",
-			"type": "go",
-			"request": "launch",
-			"mode": "auto",
+			"name": "Run Go file",
 			"cwd": "${workspaceFolder}",
+			"type": "go",
+			"mode": "auto",
+			"request": "launch",
 			"program": "${file}"
 		}
 	]
