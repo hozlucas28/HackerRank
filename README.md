@@ -42,7 +42,6 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 1. Open the integrated terminal of Visual Studio Code.
 2. Run the desired test with the command `bun test src/<CATEGORY>/<CHALLENGE NUMBER>/`
 
-> [!TIP]
 > If you want to run all Node.js tests of a category, you can use the command `bun run test:node:<CATEGORY>`.
 
 </details>
@@ -53,7 +52,6 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 1. Open the integrated terminal of Visual Studio Code.
 2. Run the desired test with the command `cd src/<CATEGORY>/<CHALLENGE NUMBER>/ && go test ./...`
 
-> [!TIP]
 > If you want to run all Go (Golang) tests of a category, you can use the command `bun run test:go:<CATEGORY>`.
 
 </details>
