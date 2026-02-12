@@ -1,1 +1,3 @@
-console.log("Hello world!");
+export default function fn(): string {
+	return "XXX"
+}

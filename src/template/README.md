@@ -1,12 +1,16 @@
-# Challenge <CHALLENGE NUMBER>
+# Challenge <CHALLENGE NUMBER> - <CHALLENGE TITLE>
 
 XXX
 
-```plaintext
+```typescript
 XXX
 ```
 
+**Constraints:**
+
+- `XXX`
+
 ### Solutions
 
-- [TypeScript](./solution.ts)
-- [Go (Golang)](./solution.go)
+- [TypeScript](solution.ts)
+- [Go (Golang)](solution.go)
