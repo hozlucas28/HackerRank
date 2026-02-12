@@ -9,7 +9,7 @@
 			"version": "1.3.9"
 		}
 	},
-	"postCreateCommand": "bun install && bun run lefthook install",
+	"postCreateCommand": "bun install && bun run lefthook install && bash scripts/health-check.sh",
 	"customizations": {
 		"vscode": {
 			"extensions": [
