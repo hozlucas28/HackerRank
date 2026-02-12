@@ -51,6 +51,21 @@
 				"[go]": {
 					"editor.defaultFormatter": "golang.go"
 				},
+				"go.showWelcome": false,
+				"go.coverOnSingleTest": false,
+				"go.coverOnTestPackage": false,
+				"go.coverOnSingleTestFile": false,
+				"go.testExplorer.alwaysRunBenchmarks": true,
+				"go.testExplorer.packageDisplayMode": "nested",
+				"go.inlayHints.parameterNames": true,
+				"go.toolsManagement.autoUpdate": true,
+				"go.editorContextMenuCommands": {
+					"playground": false,
+					"testAtCursor": false,
+					"testCoverage": false,
+					"toggleTestFile": false,
+					"debugTestAtCursor": false
+				},
 				"oxc.fmt.configPath": ".oxfmtrc.json",
 				"github.copilot.enable": {
 					"*": true,
