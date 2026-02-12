@@ -1,5 +1,5 @@
 {
-	"$schema": "./node_modules/oxfmt/configuration_schema.json",
+	"$schema": "node_modules/oxfmt/configuration_schema.json",
 	"endOfLine": "lf",
 	"useTabs": true,
 	"tabWidth": 4,
@@ -24,7 +24,7 @@
 
 	"overrides": [
 		{
-			"files": ["*yaml"],
+			"files": ["*.yaml"],
 			"options": {
 				"useTabs": false,
 				"tabWidth": 2
