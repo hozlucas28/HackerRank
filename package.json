@@ -2,6 +2,14 @@
 	"name": "hackerrank",
 	"type": "module",
 	"private": true,
+	"scripts": {
+		"test": "bun test && bash scripts/run-go-tests.sh",
+		"test:go": "bash scripts/run-go-tests.sh",
+		"test:node": "bun test",
+		"test:software-engineer-prepare-kit": "bun test src/Software\\ Engineer\\ Prepare\\ Kit/ && bash scripts/run-go-tests.sh --category=software-engineer-prepare-kit",
+		"test:go:software-engineer-prepare-kit": "bash scripts/run-go-tests.sh --category=software-engineer-prepare-kit",
+		"test:node:software-engineer-prepare-kit": "bun test src/Software\\ Engineer\\ Prepare\\ Kit/"
+	},
 	"devDependencies": {
 		"@types/bun": "^1.3.9",
 		"lefthook": "^2.1.0",
