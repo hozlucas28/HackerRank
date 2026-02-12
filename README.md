@@ -60,10 +60,12 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 ## Challenges
 
-|     #     | Challenge | Difficulty | Score earned |         Description         |
-| :-------: | --------- | :--------: | :----------: | :-------------------------: |
-|    XXX    | XXX       |   🟢🟠🔴   |   **XXX**    | [Show](./src/challenge-XXX) |
-| **Total** |           |   **/**    |   **XXX**    |            **/**            |
+### Software Engineer Prepare Kit
+
+|     #     | Challenge                                    | Difficulty | Score earned |                     Description                     |
+| :-------: | -------------------------------------------- | :--------: | :----------: | :-------------------------------------------------: |
+|    01     | Count elements greater than previous average |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/01/) |
+| **Total** |                                              |   **/**    |    **50**    |                        **/**                        |
 
 ## Related
 
