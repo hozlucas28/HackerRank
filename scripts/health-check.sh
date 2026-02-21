@@ -44,7 +44,7 @@ fi
 command_version() {
 	local version
 
-	if version=$("$@" 2>/dev/null); then
+	if version=$("$@" 2> /dev/null); then
 		echo "v$(echo "$version" | grep --perl-regexp --only-matching '\d+(?:\.\d+){0,2}' | head --lines=1)"
 	else
 		return 1
@@ -62,21 +62,21 @@ fi
 exit_code=0
 
 
-if command -v go >/dev/null 2>&1; then
+if command -v go > /dev/null 2>&1; then
 	echo -e "\e[32m- Go $(command_version go version) installed.\e[0m"
 else
 	echo -e "\e[31m- Go is not installed or not found in PATH.\e[0m" >&2
 	exit_code=1
 fi
 
-if command -v node >/dev/null 2>&1; then
+if command -v node > /dev/null 2>&1; then
 	echo -e "\e[32m- Node.js $(command_version node --version) installed.\e[0m"
 else
 	echo -e "\e[31m- Node.js is not installed or not found in PATH.\e[0m" >&2
 	exit_code=1
 fi
 
-if command -v bun >/dev/null 2>&1; then
+if command -v bun > /dev/null 2>&1; then
 	echo -e "\e[32m- Bun $(command_version bun --version) installed.\e[0m"
 else
 	echo -e "\e[31m- Bun is not installed or not found in PATH.\e[0m" >&2
