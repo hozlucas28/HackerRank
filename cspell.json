@@ -2,6 +2,6 @@
 	"version": "0.2",
 	"language": "es,es-ES,en,en-US,en-GB",
 	"useGitignore": true,
-	"words": ["hackerrank", "lefthook", "oxfmt", "stretchr"],
+	"words": ["github", "hackerrank", "lefthook", "oxfmt", "stretchr"],
 	"ignorePaths": [".devcontainer/devcontainer.json", "src/**/go.mod", "src/**/go.sum", "package.json"]
 }
