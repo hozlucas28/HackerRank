@@ -63,8 +63,9 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |     #     | Challenge                                    | Difficulty | Score earned |                     Description                     |
 | :-------: | -------------------------------------------- | :--------: | :----------: | :-------------------------------------------------: |
 |    01     | Count elements greater than previous average |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/01/) |
+|    02     | Find the smallest missing positive integer   |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/02/) |
 |    24     | Merge and sort intervals                     |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/24/) |
-| **Total** |                                              |   **/**    |   **125**    |                        **/**                        |
+| **Total** |                                              |   **/**    |   **175**    |                        **/**                        |
 
 ## Related
 
