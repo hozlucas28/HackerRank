@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestFn(t *testing.T) {
+func TestFindSmallestMissingPositive(t *testing.T) {
 	t.Parallel()
 
 	t.Run("Test 01", func(t *testing.T) {
