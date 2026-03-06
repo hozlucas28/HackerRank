@@ -13,7 +13,7 @@ func TestFn(t *testing.T) {
 		t.Parallel()
 
 		actual := Fn()
-		expected := "XXX"
+		var expected string = "XXX"
 		assert.Equal(t, expected, actual)
 	})
 }
