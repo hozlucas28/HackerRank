@@ -72,8 +72,9 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    08     | Validate properly nested brackets            |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/08/) |
 |    09     | Min-tracking stack implementation            |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/09/) |
 |    10     | One-pass removal of k-th node from end       |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/10/) |
+|    11     | Count number pairs                           |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/11/) |
 |    24     | Merge and sort intervals                     |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/24/) |
-| **Total** |                                              |   **/**    |   **575**    |                        **/**                        |
+| **Total** |                                              |   **/**    |   **625**    |                        **/**                        |
 
 ## Related
 
