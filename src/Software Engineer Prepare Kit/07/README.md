@@ -44,7 +44,11 @@ maximizeNonOverlappingMeetings([
 
 **Constraints:**
 
-- `XXX`
+- `0 <= meetings.length <= 1000`
+- `meetings[i].length == 2` for all `0 <= i < meetings.length`
+- `0 <= meetings[i][0] < meetings[i][1] <= 10^9`
+- All start and end times are integers
+- Meetings may share start or end times
 
 ### Solutions
 
