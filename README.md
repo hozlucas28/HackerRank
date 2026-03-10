@@ -60,21 +60,22 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 ### Software Engineer Prepare Kit
 
-|     #     | Challenge                                    | Difficulty | Score earned |                     Description                     |
-| :-------: | -------------------------------------------- | :--------: | :----------: | :-------------------------------------------------: |
-|    01     | Count elements greater than previous average |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/01/) |
-|    02     | Find the smallest missing positive integer   |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/02/) |
-|    03     | Check palindrome by filtering non-letters    |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/03/) |
-|    04     | Check for non-identical string rotation      |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/04/) |
-|    05     | Target index search                          |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/05/) |
-|    06     | Find first occurrence                        |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/06/) |
-|    07     | Maximum number of non-overlapping intervals  |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/07/) |
-|    08     | Validate properly nested brackets            |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/08/) |
-|    09     | Min-tracking stack implementation            |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/09/) |
-|    10     | One-pass removal of k-th node from end       |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/10/) |
-|    11     | Count number pairs                           |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/11/) |
-|    24     | Merge and sort intervals                     |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/24/) |
-| **Total** |                                              |   **/**    |   **625**    |                        **/**                        |
+|     #     | Challenge                                             | Difficulty | Score earned |                     Description                     |
+| :-------: | ----------------------------------------------------- | :--------: | :----------: | :-------------------------------------------------: |
+|    01     | Count elements greater than previous average          |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/01/) |
+|    02     | Find the smallest missing positive integer            |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/02/) |
+|    03     | Check palindrome by filtering non-letters             |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/03/) |
+|    04     | Check for non-identical string rotation               |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/04/) |
+|    05     | Target index search                                   |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/05/) |
+|    06     | Find first occurrence                                 |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/06/) |
+|    07     | Maximum number of non-overlapping intervals           |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/07/) |
+|    08     | Validate properly nested brackets                     |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/08/) |
+|    09     | Min-tracking stack implementation                     |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/09/) |
+|    10     | One-pass removal of k-th node from end                |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/10/) |
+|    11     | Count number pairs                                    |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/11/) |
+|    12     | Remove consecutive duplicates from sorted linked list |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/12/) |
+|    24     | Merge and sort intervals                              |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/24/) |
+| **Total** |                                                       |   **/**    |   **675**    |                        **/**                        |
 
 ## Related
 
