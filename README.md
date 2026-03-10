@@ -76,8 +76,9 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    12     | Remove consecutive duplicates from sorted linked list |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/12/) |
 |    14     | Remove elements within K distance                     |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/14/) |
 |    15     | Two sum                                               |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/15/) |
+|    16     | Check valid anagram                                   |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/16/) |
 |    24     | Merge and sort intervals                              |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/24/) |
-| **Total** |                                                       |   **/**    |   **775**    |                        **/**                        |
+| **Total** |                                                       |   **/**    |   **825**    |                        **/**                        |
 
 ## Related
 
