@@ -74,8 +74,9 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    10     | One-pass removal of k-th node from end                |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/10/) |
 |    11     | Count number pairs                                    |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/11/) |
 |    12     | Remove consecutive duplicates from sorted linked list |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/12/) |
+|    14     | Remove elements within K distance                     |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/14/) |
 |    24     | Merge and sort intervals                              |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/24/) |
-| **Total** |                                                       |   **/**    |   **675**    |                        **/**                        |
+| **Total** |                                                       |   **/**    |   **725**    |                        **/**                        |
 
 ## Related
 
