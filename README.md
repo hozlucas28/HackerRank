@@ -74,6 +74,7 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    10     | One-pass removal of k-th node from end                |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/10/) |
 |    11     | Count number pairs                                    |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/11/) |
 |    12     | Remove consecutive duplicates from sorted linked list |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/12/) |
+|    13     | Generate valid angle bracket sequences                |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/13/) |
 |    14     | Remove elements within K distance                     |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/14/) |
 |    15     | Two sum                                               |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/15/) |
 |    16     | Check valid anagram                                   |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/16/) |
@@ -84,7 +85,7 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    24     | Merge and sort intervals                              |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/24/) |
 |    31     | Next greater element with position offset             |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/31/) |
 |    34     | Reverse even-indexed nodes and append                 |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/34/) |
-| **Total** |                                                       |   **/**    |   **1175**   |                        **/**                        |
+| **Total** |                                                       |   **/**    |   **1225**   |                        **/**                        |
 
 ## Related
 
