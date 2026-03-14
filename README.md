@@ -80,10 +80,11 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    17     | Lexicographical letter combinations of phone digits   |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/17/) |
 |    18     | Place N cameras without conflict on blocked grid      |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/18/) |
 |    19     | Custom Fibonacci sequence                             |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/19/) |
+|    20     | Ways to fill slots with single or double coverage     |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/20/) |
 |    24     | Merge and sort intervals                              |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/24/) |
 |    31     | Next greater element with position offset             |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/31/) |
 |    34     | Reverse even-indexed nodes and append                 |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/34/) |
-| **Total** |                                                       |   **/**    |   **1125**   |                        **/**                        |
+| **Total** |                                                       |   **/**    |   **1175**   |                        **/**                        |
 
 ## Related
 
