@@ -66,6 +66,7 @@
 					"toggleTestFile": false,
 					"debugTestAtCursor": false
 				},
+				"npm.packageManager": "bun",
 				"oxc.fmt.configPath": ".oxfmtrc.json",
 				"github.copilot.enable": {
 					"*": true,

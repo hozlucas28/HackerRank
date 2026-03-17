@@ -58,6 +58,22 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 ## Challenges
 
+### Security
+
+|     #     | Challenge                          | Difficulty | Score earned |       Description        |
+| :-------: | ---------------------------------- | :--------: | :----------: | :----------------------: |
+|    01     | Functions (I)                      |     🟢     |    **5**     | [Show](src/Security/01/) |
+|    02     | Functions (II)                     |     🟢     |    **5**     | [Show](src/Security/02/) |
+|    03     | Bijective functions                |     🟢     |    **10**    | [Show](src/Security/03/) |
+|    04     | Function inverses                  |     🟢     |    **10**    | [Show](src/Security/04/) |
+|    05     | Permutations                       |     🟢     |    **10**    | [Show](src/Security/05/) |
+|    06     | Involution                         |     🟢     |    **10**    | [Show](src/Security/06/) |
+|    07     | Message space and ciphertext space |     🟢     |    **10**    | [Show](src/Security/07/) |
+|    08     | Key spaces                         |     🟢     |    **10**    | [Show](src/Security/08/) |
+|    09     | Encryption scheme                  |     🟢     |    **10**    | [Show](src/Security/09/) |
+|    11     | Keyword Transposition Cipher       |     🟢     |    **50**    | [Show](src/Security/11/) |
+| **Total** |                                    |   **/**    |   **130**    |          **/**           |
+
 ### Software Engineer Prepare Kit
 
 |     #     | Challenge                                             | Difficulty | Score earned |                     Description                     |

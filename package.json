@@ -6,6 +6,9 @@
 		"test": "bun test && bash scripts/run-go-tests.sh",
 		"test:go": "bash scripts/run-go-tests.sh",
 		"test:node": "bun test",
+		"test:security": "bash scripts/run-go-tests.sh --category=security",
+		"test:go:security": "bash scripts/run-go-tests.sh --category=security",
+		"test:node:security": "echo -e \"\\e[31mNo Node.js tests for Security category!\\e[0m\"",
 		"test:software-engineer-prepare-kit": "bun test src/Software\\ Engineer\\ Prepare\\ Kit/ && bash scripts/run-go-tests.sh --category=software-engineer-prepare-kit",
 		"test:go:software-engineer-prepare-kit": "bash scripts/run-go-tests.sh --category=software-engineer-prepare-kit",
 		"test:node:software-engineer-prepare-kit": "bun test src/Software\\ Engineer\\ Prepare\\ Kit/"

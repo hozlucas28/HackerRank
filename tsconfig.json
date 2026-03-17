@@ -1,4 +1,5 @@
 {
+	"exclude": ["src/security"],
 	"compilerOptions": {
 		// Environment setup & latest features
 		"lib": ["DOM", "ESNext"],

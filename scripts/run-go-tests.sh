@@ -68,6 +68,7 @@ fi
 if [[ -z "$category" ]]; then
 	# Run all tests if category is not specified
 	categories=(
+		"Security"
 		"Software Engineer Prepare Kit"
 	)
 
@@ -77,6 +78,9 @@ if [[ -z "$category" ]]; then
 else
 	# Run tests for a specific category
 	case "$category" in
+		"security")
+			category="Security"
+			;;
 		"software-engineer-prepare-kit")
 			category="Software Engineer Prepare Kit"
 			;;
