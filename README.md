@@ -71,8 +71,10 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    07     | Message space and ciphertext space |     🟢     |    **10**    | [Show](src/Security/07/) |
 |    08     | Key spaces                         |     🟢     |    **10**    | [Show](src/Security/08/) |
 |    09     | Encryption scheme                  |     🟢     |    **10**    | [Show](src/Security/09/) |
+|    10     | PRNG sequence guessing             |     🟠     |    **50**    | [Show](src/Security/10/) |
 |    11     | Keyword transposition cipher       |     🟢     |    **50**    | [Show](src/Security/11/) |
-| **Total** |                                    |   **/**    |   **130**    |          **/**           |
+|    12     | Basic cryptanalysis                |     🔴     |    **50**    | [Show](src/Security/12/) |
+| **Total** |                                    |   **/**    |   **230**    |          **/**           |
 
 ### Software Engineer Prepare Kit
 
