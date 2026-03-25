@@ -24,7 +24,11 @@
 				"github.vscode-github-actions",
 				"redhat.vscode-yaml",
 				"pflannery.vscode-versionlens",
-				"oxc.oxc-vscode"
+				"oxc.oxc-vscode",
+				"ms-mssql.mssql",
+				"ms-mssql.sql-database-projects-vscode",
+				"ms-mssql.sql-bindings-vscode",
+				"ms-mssql.data-workspace-vscode"
 			],
 			"settings": {
 				"editor.formatOnSave": true,
@@ -66,6 +70,10 @@
 					"toggleTestFile": false,
 					"debugTestAtCursor": false
 				},
+				"mssql.format.datatypeCasing": "uppercase",
+				"mssql.format.keywordCasing": "uppercase",
+				"mssql.format.placeCommasBeforeNextStatement": true,
+				"mssql.format.placeSelectStatementReferencesOnNewLine": true,
 				"npm.packageManager": "bun",
 				"oxc.fmt.configPath": ".oxfmtrc.json",
 				"github.copilot.enable": {

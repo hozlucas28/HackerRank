@@ -2,6 +2,18 @@
 	"version": "0.2",
 	"language": "es,es-ES,en,en-US,en-GB",
 	"useGitignore": true,
-	"words": ["adyacencia", "getopt", "github", "hackerrank", "lefthook", "oxfmt", "Permutación", "PRNG", "stretchr"],
+	"words": [
+		"adyacencia",
+		"COUNTRYCODE",
+		"getopt",
+		"github",
+		"hackerrank",
+		"lefthook",
+		"oxfmt",
+		"Permutación",
+		"PRNG",
+		"stretchr",
+		"VARCHAR"
+	],
 	"ignorePaths": [".devcontainer/devcontainer.json", "src/**/go.mod", "src/**/go.sum", "package.json"]
 }

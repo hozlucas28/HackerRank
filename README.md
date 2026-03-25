@@ -58,6 +58,13 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 ## Challenges
 
+### SQL
+
+|     #     | Challenge                   | Difficulty | Score earned |     Description     |
+| :-------: | --------------------------- | :--------: | :----------: | :-----------------: |
+|    01     | Revising the select query I |     🟢     |    **10**    | [Show](src/SQL/01/) |
+| **Total** |                             |   **/**    |    **10**    |        **/**        |
+
 ### Security
 
 |     #     | Challenge                          | Difficulty | Score earned |       Description        |
