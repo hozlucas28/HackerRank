@@ -55,6 +55,9 @@
 				"[go]": {
 					"editor.defaultFormatter": "golang.go"
 				},
+				"[sql]": {
+					"editor.defaultFormatter": "ms-mssql.mssql"
+				},
 				"go.showWelcome": false,
 				"go.coverOnSingleTest": false,
 				"go.coverOnTestPackage": false,
