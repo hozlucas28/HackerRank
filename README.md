@@ -70,7 +70,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    06     | Japanese cities' names        |     🟢     |    **10**    | [Show](src/SQL/06/) |
 |    07     | Weather observation station 1 |     🟢     |    **15**    | [Show](src/SQL/07/) |
 |    08     | Weather observation station 2 |     🟢     |    **15**    | [Show](src/SQL/08/) |
-| **Total** |                               |   **/**    |    **90**    |        **/**        |
+|    09     | Weather observation station 3 |     🟢     |    **10**    | [Show](src/SQL/09/) |
+| **Total** |                               |   **/**    |   **100**    |        **/**        |
 
 ### Security
 
