@@ -82,7 +82,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    18     | Weather observation station 12 |     🟢     |    **15**    | [Show](src/SQL/18/) |
 |    19     | Higher than 75 marks           |     🟢     |    **15**    | [Show](src/SQL/19/) |
 |    20     | Employee names                 |     🟢     |    **10**    | [Show](src/SQL/20/) |
-| **Total** |                                |   **/**    |   **250**    |        **/**        |
+|    21     | Employee salaries              |     🟢     |    **10**    | [Show](src/SQL/21/) |
+| **Total** |                                |   **/**    |   **260**    |        **/**        |
 
 ### Security
 
