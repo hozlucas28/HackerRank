@@ -84,7 +84,9 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    20     | Employee names                 |     🟢     |    **10**    | [Show](src/SQL/20/) |
 |    21     | Employee salaries              |     🟢     |    **10**    | [Show](src/SQL/21/) |
 |    22     | Type of triangle               |     🟢     |    **20**    | [Show](src/SQL/22/) |
-| **Total** |                                |   **/**    |   **280**    |        **/**        |
+|    23     | The PADS                       |     🟠     |    **30**    | [Show](src/SQL/23/) |
+|    24     | Occupations                    |     🟠     |    **30**    | [Show](src/SQL/24/) |
+| **Total** |                                |   **/**    |   **340**    |        **/**        |
 
 ### Security
 
