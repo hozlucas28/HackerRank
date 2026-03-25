@@ -64,7 +64,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 | :-------: | ---------------------------- | :--------: | :----------: | :-----------------: |
 |    01     | Revising the select query I  |     🟢     |    **10**    | [Show](src/SQL/01/) |
 |    02     | Revising the select query II |     🟢     |    **10**    | [Show](src/SQL/02/) |
-| **Total** |                              |   **/**    |    **20**    |        **/**        |
+|    03     | Select all                   |     🟢     |    **10**    | [Show](src/SQL/03/) |
+| **Total** |                              |   **/**    |    **30**    |        **/**        |
 
 ### Security
 
