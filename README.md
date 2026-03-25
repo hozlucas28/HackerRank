@@ -72,7 +72,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    08     | Weather observation station 2 |     🟢     |    **15**    | [Show](src/SQL/08/) |
 |    09     | Weather observation station 3 |     🟢     |    **10**    | [Show](src/SQL/09/) |
 |    10     | Weather observation station 4 |     🟢     |    **10**    | [Show](src/SQL/10/) |
-| **Total** |                               |   **/**    |   **110**    |        **/**        |
+|    11     | Weather observation station 5 |     🟢     |    **30**    | [Show](src/SQL/11/) |
+| **Total** |                               |   **/**    |   **140**    |        **/**        |
 
 ### Security
 
