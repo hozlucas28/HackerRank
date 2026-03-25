@@ -75,7 +75,6 @@
 				},
 				"mssql.format.datatypeCasing": "uppercase",
 				"mssql.format.keywordCasing": "uppercase",
-				"mssql.format.placeCommasBeforeNextStatement": true,
 				"mssql.format.placeSelectStatementReferencesOnNewLine": true,
 				"npm.packageManager": "bun",
 				"oxc.fmt.configPath": ".oxfmtrc.json",
