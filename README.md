@@ -67,7 +67,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    03     | Select all                   |     🟢     |    **10**    | [Show](src/SQL/03/) |
 |    04     | Select by ID                 |     🟢     |    **10**    | [Show](src/SQL/04/) |
 |    05     | Japanese cities' attributes  |     🟢     |    **10**    | [Show](src/SQL/05/) |
-| **Total** |                              |   **/**    |    **50**    |        **/**        |
+|    06     | Japanese cities' names       |     🟢     |    **10**    | [Show](src/SQL/06/) |
+| **Total** |                              |   **/**    |    **60**    |        **/**        |
 
 ### Security
 
