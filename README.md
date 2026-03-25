@@ -60,15 +60,17 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 ### SQL
 
-|     #     | Challenge                    | Difficulty | Score earned |     Description     |
-| :-------: | ---------------------------- | :--------: | :----------: | :-----------------: |
-|    01     | Revising the select query I  |     🟢     |    **10**    | [Show](src/SQL/01/) |
-|    02     | Revising the select query II |     🟢     |    **10**    | [Show](src/SQL/02/) |
-|    03     | Select all                   |     🟢     |    **10**    | [Show](src/SQL/03/) |
-|    04     | Select by ID                 |     🟢     |    **10**    | [Show](src/SQL/04/) |
-|    05     | Japanese cities' attributes  |     🟢     |    **10**    | [Show](src/SQL/05/) |
-|    06     | Japanese cities' names       |     🟢     |    **10**    | [Show](src/SQL/06/) |
-| **Total** |                              |   **/**    |    **60**    |        **/**        |
+|     #     | Challenge                     | Difficulty | Score earned |     Description     |
+| :-------: | ----------------------------- | :--------: | :----------: | :-----------------: |
+|    01     | Revising the select query I   |     🟢     |    **10**    | [Show](src/SQL/01/) |
+|    02     | Revising the select query II  |     🟢     |    **10**    | [Show](src/SQL/02/) |
+|    03     | Select all                    |     🟢     |    **10**    | [Show](src/SQL/03/) |
+|    04     | Select by ID                  |     🟢     |    **10**    | [Show](src/SQL/04/) |
+|    05     | Japanese cities' attributes   |     🟢     |    **10**    | [Show](src/SQL/05/) |
+|    06     | Japanese cities' names        |     🟢     |    **10**    | [Show](src/SQL/06/) |
+|    07     | Weather observation station 1 |     🟢     |    **15**    | [Show](src/SQL/07/) |
+|    08     | Weather observation station 2 |     🟢     |    **15**    | [Show](src/SQL/08/) |
+| **Total** |                               |   **/**    |    **90**    |        **/**        |
 
 ### Security
 
