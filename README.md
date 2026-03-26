@@ -86,7 +86,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    22     | Type of triangle               |     🟢     |    **20**    | [Show](src/SQL/22/) |
 |    23     | The PADS                       |     🟠     |    **30**    | [Show](src/SQL/23/) |
 |    24     | Occupations                    |     🟠     |    **30**    | [Show](src/SQL/24/) |
-| **Total** |                                |   **/**    |   **340**    |        **/**        |
+|    25     | Binary tree nodes              |     🟠     |    **30**    | [Show](src/SQL/25/) |
+| **Total** |                                |   **/**    |   **370**    |        **/**        |
 
 ### Security
 
