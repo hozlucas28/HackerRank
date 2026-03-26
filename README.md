@@ -60,40 +60,41 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 ### SQL
 
-|     #     | Challenge                                | Difficulty | Score earned |     Description     |
-| :-------: | ---------------------------------------- | :--------: | :----------: | :-----------------: |
-|    01     | Revising the select query I              |     🟢     |    **10**    | [Show](src/SQL/01/) |
-|    02     | Revising the select query II             |     🟢     |    **10**    | [Show](src/SQL/02/) |
-|    03     | Select all                               |     🟢     |    **10**    | [Show](src/SQL/03/) |
-|    04     | Select by ID                             |     🟢     |    **10**    | [Show](src/SQL/04/) |
-|    05     | Japanese cities' attributes              |     🟢     |    **10**    | [Show](src/SQL/05/) |
-|    06     | Japanese cities' names                   |     🟢     |    **10**    | [Show](src/SQL/06/) |
-|    07     | Weather observation station 1            |     🟢     |    **15**    | [Show](src/SQL/07/) |
-|    08     | Weather observation station 2            |     🟢     |    **15**    | [Show](src/SQL/08/) |
-|    09     | Weather observation station 3            |     🟢     |    **10**    | [Show](src/SQL/09/) |
-|    10     | Weather observation station 4            |     🟢     |    **10**    | [Show](src/SQL/10/) |
-|    11     | Weather observation station 5            |     🟢     |    **30**    | [Show](src/SQL/11/) |
-|    12     | Weather observation station 6            |     🟢     |    **10**    | [Show](src/SQL/12/) |
-|    13     | Weather Observation Station 7            |     🟢     |    **10**    | [Show](src/SQL/13/) |
-|    14     | Weather observation station 8            |     🟢     |    **15**    | [Show](src/SQL/14/) |
-|    15     | Weather observation station 9            |     🟢     |    **10**    | [Show](src/SQL/15/) |
-|    16     | Weather observation station 10           |     🟢     |    **10**    | [Show](src/SQL/16/) |
-|    17     | Weather observation station 11           |     🟢     |    **15**    | [Show](src/SQL/17/) |
-|    18     | Weather observation station 12           |     🟢     |    **15**    | [Show](src/SQL/18/) |
-|    19     | Higher than 75 marks                     |     🟢     |    **15**    | [Show](src/SQL/19/) |
-|    20     | Employee names                           |     🟢     |    **10**    | [Show](src/SQL/20/) |
-|    21     | Employee salaries                        |     🟢     |    **10**    | [Show](src/SQL/21/) |
-|    22     | Type of triangle                         |     🟢     |    **20**    | [Show](src/SQL/22/) |
-|    23     | The PADS                                 |     🟠     |    **30**    | [Show](src/SQL/23/) |
-|    24     | Occupations                              |     🟠     |    **30**    | [Show](src/SQL/24/) |
-|    25     | Binary tree nodes                        |     🟠     |    **30**    | [Show](src/SQL/25/) |
-|    26     | New companies                            |     🟠     |    **30**    | [Show](src/SQL/26/) |
-|    27     | Revising aggregations - The sum function |     🟢     |    **10**    | [Show](src/SQL/27/) |
-|    28     | Revising aggregations - Averages         |     🟢     |    **10**    | [Show](src/SQL/28/) |
-|    29     | Average population                       |     🟢     |    **10**    | [Show](src/SQL/29/) |
-|    30     | Japan population                         |     🟢     |    **10**    | [Show](src/SQL/30/) |
-|    31     | Population density difference            |     🟢     |    **10**    | [Show](src/SQL/31/) |
-| **Total** |                                          |   **/**    |   **450**    |        **/**        |
+|     #     | Challenge                                  | Difficulty | Score earned |     Description     |
+| :-------: | ------------------------------------------ | :--------: | :----------: | :-----------------: |
+|    01     | Revising the select query I                |     🟢     |    **10**    | [Show](src/SQL/01/) |
+|    02     | Revising the select query II               |     🟢     |    **10**    | [Show](src/SQL/02/) |
+|    03     | Select all                                 |     🟢     |    **10**    | [Show](src/SQL/03/) |
+|    04     | Select by ID                               |     🟢     |    **10**    | [Show](src/SQL/04/) |
+|    05     | Japanese cities' attributes                |     🟢     |    **10**    | [Show](src/SQL/05/) |
+|    06     | Japanese cities' names                     |     🟢     |    **10**    | [Show](src/SQL/06/) |
+|    07     | Weather observation station 1              |     🟢     |    **15**    | [Show](src/SQL/07/) |
+|    08     | Weather observation station 2              |     🟢     |    **15**    | [Show](src/SQL/08/) |
+|    09     | Weather observation station 3              |     🟢     |    **10**    | [Show](src/SQL/09/) |
+|    10     | Weather observation station 4              |     🟢     |    **10**    | [Show](src/SQL/10/) |
+|    11     | Weather observation station 5              |     🟢     |    **30**    | [Show](src/SQL/11/) |
+|    12     | Weather observation station 6              |     🟢     |    **10**    | [Show](src/SQL/12/) |
+|    13     | Weather Observation Station 7              |     🟢     |    **10**    | [Show](src/SQL/13/) |
+|    14     | Weather observation station 8              |     🟢     |    **15**    | [Show](src/SQL/14/) |
+|    15     | Weather observation station 9              |     🟢     |    **10**    | [Show](src/SQL/15/) |
+|    16     | Weather observation station 10             |     🟢     |    **10**    | [Show](src/SQL/16/) |
+|    17     | Weather observation station 11             |     🟢     |    **15**    | [Show](src/SQL/17/) |
+|    18     | Weather observation station 12             |     🟢     |    **15**    | [Show](src/SQL/18/) |
+|    19     | Higher than 75 marks                       |     🟢     |    **15**    | [Show](src/SQL/19/) |
+|    20     | Employee names                             |     🟢     |    **10**    | [Show](src/SQL/20/) |
+|    21     | Employee salaries                          |     🟢     |    **10**    | [Show](src/SQL/21/) |
+|    22     | Type of triangle                           |     🟢     |    **20**    | [Show](src/SQL/22/) |
+|    23     | The PADS                                   |     🟠     |    **30**    | [Show](src/SQL/23/) |
+|    24     | Occupations                                |     🟠     |    **30**    | [Show](src/SQL/24/) |
+|    25     | Binary tree nodes                          |     🟠     |    **30**    | [Show](src/SQL/25/) |
+|    26     | New companies                              |     🟠     |    **30**    | [Show](src/SQL/26/) |
+|    27     | Revising aggregations - The sum function   |     🟢     |    **10**    | [Show](src/SQL/27/) |
+|    28     | Revising aggregations - Averages           |     🟢     |    **10**    | [Show](src/SQL/28/) |
+|    29     | Average population                         |     🟢     |    **10**    | [Show](src/SQL/29/) |
+|    30     | Japan population                           |     🟢     |    **10**    | [Show](src/SQL/30/) |
+|    31     | Population density difference              |     🟢     |    **10**    | [Show](src/SQL/31/) |
+|    32     | Revising aggregations - The count function |     🟢     |    **10**    | [Show](src/SQL/32/) |
+| **Total** |                                            |   **/**    |   **460**    |        **/**        |
 
 ### Security
 
