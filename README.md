@@ -98,7 +98,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    34     | Top earners                                |     🟢     |    **20**    | [Show](src/SQL/34/) |
 |    35     | Weather observation station 13             |     🟢     |    **10**    | [Show](src/SQL/35/) |
 |    36     | Weather observation station 14             |     🟢     |    **10**    | [Show](src/SQL/36/) |
-| **Total** |                                            |   **/**    |   **515**    |        **/**        |
+|    37     | Weather observation station 15             |     🟢     |    **15**    | [Show](src/SQL/37/) |
+| **Total** |                                            |   **/**    |   **530**    |        **/**        |
 
 ### Security
 
