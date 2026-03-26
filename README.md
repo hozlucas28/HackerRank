@@ -97,7 +97,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    33     | The blunder                                |     🟢     |    **15**    | [Show](src/SQL/33/) |
 |    34     | Top earners                                |     🟢     |    **20**    | [Show](src/SQL/34/) |
 |    35     | Weather observation station 13             |     🟢     |    **10**    | [Show](src/SQL/35/) |
-| **Total** |                                            |   **/**    |   **505**    |        **/**        |
+|    36     | Weather observation station 14             |     🟢     |    **10**    | [Show](src/SQL/36/) |
+| **Total** |                                            |   **/**    |   **515**    |        **/**        |
 
 ### Security
 
