@@ -95,7 +95,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    31     | Population density difference              |     🟢     |    **10**    | [Show](src/SQL/31/) |
 |    32     | Revising aggregations - The count function |     🟢     |    **10**    | [Show](src/SQL/32/) |
 |    33     | The blunder                                |     🟢     |    **15**    | [Show](src/SQL/33/) |
-| **Total** |                                            |   **/**    |   **475**    |        **/**        |
+|    34     | Top earners                                |     🟢     |    **20**    | [Show](src/SQL/34/) |
+| **Total** |                                            |   **/**    |   **495**    |        **/**        |
 
 ### Security
 
