@@ -91,7 +91,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    27     | Revising aggregations - The sum function |     🟢     |    **10**    | [Show](src/SQL/27/) |
 |    28     | Revising aggregations - Averages         |     🟢     |    **10**    | [Show](src/SQL/28/) |
 |    29     | Average population                       |     🟢     |    **10**    | [Show](src/SQL/29/) |
-| **Total** |                                          |   **/**    |   **430**    |        **/**        |
+|    30     | Japan population                         |     🟢     |    **10**    | [Show](src/SQL/30/) |
+| **Total** |                                          |   **/**    |   **440**    |        **/**        |
 
 ### Security
 
