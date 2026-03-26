@@ -96,7 +96,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    32     | Revising aggregations - The count function |     🟢     |    **10**    | [Show](src/SQL/32/) |
 |    33     | The blunder                                |     🟢     |    **15**    | [Show](src/SQL/33/) |
 |    34     | Top earners                                |     🟢     |    **20**    | [Show](src/SQL/34/) |
-| **Total** |                                            |   **/**    |   **495**    |        **/**        |
+|    35     | Weather observation station 13             |     🟢     |    **10**    | [Show](src/SQL/35/) |
+| **Total** |                                            |   **/**    |   **505**    |        **/**        |
 
 ### Security
 
