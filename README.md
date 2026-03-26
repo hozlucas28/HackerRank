@@ -89,7 +89,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    25     | Binary tree nodes                        |     🟠     |    **30**    | [Show](src/SQL/25/) |
 |    26     | New companies                            |     🟠     |    **30**    | [Show](src/SQL/26/) |
 |    27     | Revising aggregations - The sum function |     🟢     |    **10**    | [Show](src/SQL/27/) |
-| **Total** |                                          |   **/**    |   **410**    |        **/**        |
+|    28     | Revising aggregations - Averages         |     🟢     |    **10**    | [Show](src/SQL/28/) |
+| **Total** |                                          |   **/**    |   **420**    |        **/**        |
 
 ### Security
 
