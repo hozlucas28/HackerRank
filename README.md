@@ -92,7 +92,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    28     | Revising aggregations - Averages         |     🟢     |    **10**    | [Show](src/SQL/28/) |
 |    29     | Average population                       |     🟢     |    **10**    | [Show](src/SQL/29/) |
 |    30     | Japan population                         |     🟢     |    **10**    | [Show](src/SQL/30/) |
-| **Total** |                                          |   **/**    |   **440**    |        **/**        |
+|    31     | Population density difference            |     🟢     |    **10**    | [Show](src/SQL/31/) |
+| **Total** |                                          |   **/**    |   **450**    |        **/**        |
 
 ### Security
 
