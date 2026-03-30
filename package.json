@@ -14,7 +14,10 @@
 		"test:node:security": "echo -e \"\\e[31mNo Node.js tests for Security category!\\e[0m\"",
 		"test:software-engineer-prepare-kit": "bun test src/Software\\ Engineer\\ Prepare\\ Kit/ && bash scripts/run-go-tests.sh --category=software-engineer-prepare-kit",
 		"test:go:software-engineer-prepare-kit": "bash scripts/run-go-tests.sh --category=software-engineer-prepare-kit",
-		"test:node:software-engineer-prepare-kit": "bun test src/Software\\ Engineer\\ Prepare\\ Kit/"
+		"test:node:software-engineer-prepare-kit": "bun test src/Software\\ Engineer\\ Prepare\\ Kit/",
+		"test:sql": "echo -e \"\\e[31mThere are no tests for SQL category!\\e[0m\"",
+		"test:go:sql": "echo -e \"\\e[31mNo Go (Golang) tests for SQL category!\\e[0m\"",
+		"test:node:sql": "echo -e \"\\e[31mNo Node.js tests for SQL category!\\e[0m\""
 	},
 	"devDependencies": {
 		"@types/bun": "^1.3.9",
