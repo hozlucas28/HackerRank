@@ -1,17 +1,17 @@
-# Challenge 29 - Valid PAN format
+# Challenge 29 - Alien username
 
-The equivalent of SSN in India is a PAN number, which is unique to each of its citizens. In any of the country's official documents, the PAN number is listed as follows
+In a galaxy far, far away, on a planet different from ours, each computer username uses the following format:
 
-<char><char><char><char><char><digit><digit><digit><digit><char>
-Your task is to figure out if the PAN number is valid or not. A valid PAN number will have all its letters in uppercase and digits in the same order as listed above.
+1. It must begin with either an underscore, `_` (ASCII value $`95`$), or a period, `.` (ASCII value $`46`$).
+2. The first character must be immediately followed by one or more digits in the range $`0`$ through $`9`$.
+3. After some number of digits, there must be $`0`$ or more English letters (uppercase and/or lowercase).
+4. It may be terminated with an optional `_` (ASCII value $`95`$). Note that if it's not terminated with an underscore, then there should be no characters after the sequence of $`0`$ or more English letters.
+
+Given $`n`$ strings, determine which ones are valid alien usernames. If a string is a valid alien username, print `VALID` on a new line; otherwise, print `INVALID`.
 
 **Constraints:**
 
-- $`1 \le N \le 10`$
-- Each char is an uppercase letter, i.e., $`char\in['A','Z']`$.
-- Each digit lies between 0 and 9, i.e., $`digit\in[0,9]`$.
-- The length of the PAN number is always 10, i.e., $`length(PAN)=10`$.
-- Every character in PAN is either char or digit satisfying the above constraints.
+- $`1 \le n \le 100`$
 
 ### Solutions
 

@@ -1,9 +1,9 @@
-export default function regex(pans: string[]) {
-	const regex = new RegExp(/^[A-Z]{5}\d{4}[A-Z]$/)
+export default function main(usernames: string[]) {
+	const regex = new RegExp(/^[_.]\d+[a-zA-Z]*_?$/)
 	const results: string[] = []
 
-	for (const pan of pans) {
-		results.push(regex.test(pan) ? "YES" : "NO")
+	for (const username of usernames) {
+		results.push(regex.test(username) ? "VALID" : "INVALID")
 	}
 
 	return results

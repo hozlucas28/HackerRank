@@ -1,17 +1,15 @@
-export default function regex(text: string[]) {
-	const matches = new Set<string>()
+export default function regex(lines: string[]): string[] {
+	const regex = new RegExp(/<\s*a\s+.*?href\s*=\s*["'](?<link>.*?)".*?>(?:\s|<(?:.|\s)*?>)*(?<text>(?:.|\s)*?)</, "g")
+	const results: string[] = []
 
-	for (const line of text) {
-		const match = line.match(/(?<=<)[^/ >]+/g)
-		if (!match) continue
+	for (const line of lines) {
+		const matches = line.matchAll(regex)
 
-		for (const tag of match) {
-			matches.add(tag)
+		for (const match of Array.from(matches)) {
+			const { link = "", text = "" } = match.groups ?? {}
+			results.push(`${link},${text}`)
 		}
 	}
 
-	const _matches = Array.from(matches.values())
-	_matches.sort()
-
-	return _matches.join(";")
+	return results
 }

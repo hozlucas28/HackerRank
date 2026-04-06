@@ -1,16 +1,10 @@
 import fn from "./solution.ts"
 import { expect, test, describe } from "bun:test"
 
-describe("Challenge 31: Saying hi", () => {
+describe("Challenge 31: Find a word", () => {
 	test("Test 01", () => {
-		const received = fn([
-			"Hi Alex how are you doing",
-			"hI dave how are you doing",
-			"Good by Alex",
-			"hidden agenda",
-			"Alex greeted Martha by saying Hi Martha"
-		])
-		const expected = ["Hi Alex how are you doing"]
+		const received = fn("foo bar (foo) bar foo-bar foo_bar foo'bar bar-foo bar, foo.", ["foo"])
+		const expected = [6]
 		expect(received).toStrictEqual(expected)
 	})
 })

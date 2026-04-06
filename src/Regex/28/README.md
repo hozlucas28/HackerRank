@@ -1,17 +1,24 @@
-# Challenge 28 - Alien username
+# Challenge 28 - Find a sub-word
 
-In a galaxy far, far away, on a planet different from ours, each computer username uses the following format:
+We define a word character to be any of the following:
 
-1. It must begin with either an underscore, `_` (ASCII value $`95`$), or a period, `.` (ASCII value $`46`$).
-2. The first character must be immediately followed by one or more digits in the range $`0`$ through $`9`$.
-3. After some number of digits, there must be $`0`$ or more English letters (uppercase and/or lowercase).
-4. It may be terminated with an optional `_` (ASCII value $`95`$). Note that if it's not terminated with an underscore, then there should be no characters after the sequence of $`0`$ or more English letters.
+- An English alphabetic letter (i.e., `a-z` and `A-Z`).
+- A decimal digit (i.e., `0-9`).
+- An underscore (i.e., `_`, which corresponds to ASCII value $`95`$).
 
-Given $`n`$ strings, determine which ones are valid alien usernames. If a string is a valid alien username, print `VALID` on a new line; otherwise, print `INVALID`.
+We define a word to be a contiguous sequence of one or more word characters that is preceded and succeeded by one or more occurrences of non-word-characters or line terminators. For example, in the string `I l0ve-cheese_?`, the words are `I`, `l0ve`, and `cheese_`.
+
+We define a sub-word as follows:
+
+- A sequence of word characters (i.e., English alphabetic letters, digits, and/or underscores) that occur in the same exact order (i.e., as a contiguous sequence) inside another word.
+- It is preceded and succeeded by word characters only.
+
+Given $`n`$ sentences consisting of one or more words separated by non-word characters, process $`q`$ queries where each query consists of a single string, $`s`$. To process each query, count the number of occurrences of $`s`$ as a sub-word in all $`n`$ sentences, then print the number of occurrences on a new line.
 
 **Constraints:**
 
 - $`1 \le n \le 100`$
+- $`1 \le q \le 10`$
 
 ### Solutions
 

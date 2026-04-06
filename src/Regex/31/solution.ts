@@ -1,9 +1,11 @@
-export default function regex(lines: string[]) {
-	const regex = new RegExp(/^[hH][iI]\s[^dD]/)
-	const results: string[] = []
+export default function regex(text: string, words: string[]): number[] {
+	const results: number[] = []
 
-	for (const line of lines) {
-		if (regex.test(line)) results.push(line)
+	for (const word of words) {
+		const regex = new RegExp(`(?<!\\w)${word}(?!\\w)`, "g")
+		const matches = text.match(regex)
+
+		results.push(matches?.length ?? 0)
 	}
 
 	return results

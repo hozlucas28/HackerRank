@@ -1,19 +1,13 @@
-# Challenge 31 - Saying hi
+# Challenge 31 - Find a word
 
-Given a sentence, $`s`$, write a RegEx to match the following criteria:
+We define a word as a non-empty maximum sequence of characters that can contain only lowercase letters, uppercase letters, digits and underscores '\_' (ASCII value 95). Maximum sequence means that the word has to be immediately preceded by a character not allowed to occur in a word or by the left boundary of the sentence, and it has to be immediately followed by a character not allowed to occur in a word or by the right boundary of the sentence.
 
-1. The first character must be the letter $`H`$ or $`h`$.
-2. The second character must be the letter $`I`$ or $`i`$.
-3. The third character must be a single space.
-4. The fourth character must not be the letter $`D`$ or $`d`$.
-
-Given $`n`$ lines of sentences as input, print each sentence matching your RegEx on a new line.
+Given $`N`$ sentences and $`T`$ words, for each of these words, find the number of its occurrences in all the $`N`$ sentences.
 
 **Constraints:**
 
-- $`1 \le n \le 10`$
-- Each sentence, $`s`$, contains $`1`$ to $`10`$ words.
-- Each word/token in a sentence is comprised only of upper and lowercase English letters.
+- $`1 \leq N \leq 100`$
+- $`1 \leq T \leq 10`$
 
 ### Solutions
 

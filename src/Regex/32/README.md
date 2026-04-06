@@ -1,18 +1,6 @@
-# Challenge 32 - HackerRank language
+# Challenge 32 - Detect the email address
 
-Every submission at HackerRank has a field called language which indicates the programming language which a hacker used to code his solution.
-
-```plaintext
-C:CPP:JAVA:PYTHON:PERL:PHP:RUBY:CSHARP:HASKELL:CLOJURE:BASH:SCALA:ERLANG:CLISP:LUA:BRAINFUCK:JAVASCRIPT:GO:D:OCAML:R:PASCAL:SBCL:DART: GROOVY:OBJECTIVEC
-```
-
-Sometimes, error-prone API requests can have an invalid language field. Could you find out if a given submission has a valid language field or not?
-
-**Constraints:**
-
-- $`1 \le N \le 100`$
-- $`10^4 \le api_id \lt 10^5`$
-- A valid language is any of the languages listed above (case sensitive).
+You will be provided with a block of text, spanning not more than hundred lines. Your task is to find the unique e-mail addresses present in the text. You could use Regular Expressions to simplify your task. And remember that the "@" sign can be used for a variety of purposes! Requirements are simplified versus real world. There can be a number of strings separated by dots before and after the "@" symbol. Strings will be made up of characters in the ranges a-z, A-Z, 0-9, \_ (underscore).
 
 ### Solutions
 

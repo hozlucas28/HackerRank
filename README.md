@@ -105,41 +105,56 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 ### Regex
 
-|     #     | Challenge                                      | Difficulty | Score earned |      Description      |
-| :-------: | ---------------------------------------------- | :--------: | :----------: | :-------------------: |
-|    01     | Matching specific string                       |     🟢     |    **5**     | [Show](src/Regex/01/) |
-|    02     | Matching anything but a newline                |     🟢     |    **5**     | [Show](src/Regex/02/) |
-|    03     | Matching digits & non-digit characters         |     🟢     |    **5**     | [Show](src/Regex/03/) |
-|    04     | Matching whitespace & non-whitespace character |     🟢     |    **5**     | [Show](src/Regex/04/) |
-|    05     | Matching word & non-word character             |     🟢     |    **5**     | [Show](src/Regex/05/) |
-|    06     | Matching start & end                           |     🟢     |    **5**     | [Show](src/Regex/06/) |
-|    07     | Matching specific characters                   |     🟢     |    **10**    | [Show](src/Regex/07/) |
-|    08     | Excluding specific characters                  |     🟢     |    **10**    | [Show](src/Regex/08/) |
-|    09     | Matching character ranges                      |     🟢     |    **10**    | [Show](src/Regex/09/) |
-|    10     | Matching {x} repetitions                       |     🟢     |    **20**    | [Show](src/Regex/10/) |
-|    11     | Matching {x, y} repetitions                    |     🟢     |    **20**    | [Show](src/Regex/11/) |
-|    12     | Matching zero or more repetitions              |     🟢     |    **20**    | [Show](src/Regex/12/) |
-|    13     | Matching one or more repetitions               |     🟢     |    **20**    | [Show](src/Regex/13/) |
-|    14     | Matching ending items                          |     🟢     |    **20**    | [Show](src/Regex/14/) |
-|    15     | Matching word boundaries                       |     🟢     |    **20**    | [Show](src/Regex/15/) |
-|    16     | Capturing & non-capturing groups               |     🟢     |    **20**    | [Show](src/Regex/16/) |
-|    17     | Alternative matching                           |     🟢     |    **20**    | [Show](src/Regex/17/) |
-|    18     | Matching same text again & again               |     🟢     |    **20**    | [Show](src/Regex/18/) |
-|    19     | Backreferences to failed groups                |     🟢     |    **20**    | [Show](src/Regex/19/) |
-|    20     | Branch reset groups                            |     🟢     |    **20**    | [Show](src/Regex/20/) |
-|    21     | Forward references                             |     🟢     |    **20**    | [Show](src/Regex/21/) |
-|    22     | Positive lookahead                             |     🟢     |    **20**    | [Show](src/Regex/22/) |
-|    23     | Negative lookahead                             |     🟢     |    **20**    | [Show](src/Regex/23/) |
-|    24     | Positive lookbehind                            |     🟢     |    **20**    | [Show](src/Regex/24/) |
-|    25     | Negative lookbehind                            |     🟢     |    **20**    | [Show](src/Regex/25/) |
-|    26     | Detect HTML tags                               |     🟢     |    **10**    | [Show](src/Regex/26/) |
-|    27     | Find a sub-word                                |     🟢     |    **10**    | [Show](src/Regex/27/) |
-|    28     | Alien username                                 |     🟢     |    **10**    | [Show](src/Regex/28/) |
-|    29     | Valid PAN format                               |     🟢     |    **15**    | [Show](src/Regex/29/) |
-|    30     | Find HackerRank                                |     🟢     |    **15**    | [Show](src/Regex/30/) |
-|    31     | Saying hi                                      |     🟢     |    **15**    | [Show](src/Regex/31/) |
-|    32     | HackerRank language                            |     🟢     |    **15**    | [Show](src/Regex/32/) |
-| **Total** |                                                |   **/**    |   **470**    |         **/**         |
+|     #     | Challenge                                             | Difficulty | Score earned |      Description      |
+| :-------: | ----------------------------------------------------- | :--------: | :----------: | :-------------------: |
+|    01     | Matching specific string                              |     🟢     |    **5**     | [Show](src/Regex/01/) |
+|    02     | Matching anything but a newline                       |     🟢     |    **5**     | [Show](src/Regex/02/) |
+|    03     | Matching digits & non-digit characters                |     🟢     |    **5**     | [Show](src/Regex/03/) |
+|    04     | Matching whitespace & non-whitespace character        |     🟢     |    **5**     | [Show](src/Regex/04/) |
+|    05     | Matching word & non-word character                    |     🟢     |    **5**     | [Show](src/Regex/05/) |
+|    06     | Matching start & end                                  |     🟢     |    **5**     | [Show](src/Regex/06/) |
+|    07     | Matching specific characters                          |     🟢     |    **10**    | [Show](src/Regex/07/) |
+|    08     | Excluding specific characters                         |     🟢     |    **10**    | [Show](src/Regex/08/) |
+|    09     | Matching character ranges                             |     🟢     |    **10**    | [Show](src/Regex/09/) |
+|    10     | Matching {x} repetitions                              |     🟢     |    **20**    | [Show](src/Regex/10/) |
+|    11     | Matching {x, y} repetitions                           |     🟢     |    **20**    | [Show](src/Regex/11/) |
+|    12     | Matching zero or more repetitions                     |     🟢     |    **20**    | [Show](src/Regex/12/) |
+|    13     | Matching one or more repetitions                      |     🟢     |    **20**    | [Show](src/Regex/13/) |
+|    14     | Matching ending items                                 |     🟢     |    **20**    | [Show](src/Regex/14/) |
+|    15     | Matching word boundaries                              |     🟢     |    **20**    | [Show](src/Regex/15/) |
+|    16     | Capturing & non-capturing groups                      |     🟢     |    **20**    | [Show](src/Regex/16/) |
+|    17     | Alternative matching                                  |     🟢     |    **20**    | [Show](src/Regex/17/) |
+|    18     | Matching same text again & again                      |     🟢     |    **20**    | [Show](src/Regex/18/) |
+|    19     | Backreferences to failed groups                       |     🟢     |    **20**    | [Show](src/Regex/19/) |
+|    20     | Branch reset groups                                   |     🟢     |    **20**    | [Show](src/Regex/20/) |
+|    21     | Forward references                                    |     🟢     |    **20**    | [Show](src/Regex/21/) |
+|    22     | Positive lookahead                                    |     🟢     |    **20**    | [Show](src/Regex/22/) |
+|    23     | Negative lookahead                                    |     🟢     |    **20**    | [Show](src/Regex/23/) |
+|    24     | Positive lookbehind                                   |     🟢     |    **20**    | [Show](src/Regex/24/) |
+|    25     | Negative lookbehind                                   |     🟢     |    **20**    | [Show](src/Regex/25/) |
+|    26     | Detect HTML links                                     |     🟠     |    **10**    | [Show](src/Regex/26/) |
+|    27     | Detect HTML tags                                      |     🟢     |    **10**    | [Show](src/Regex/27/) |
+|    28     | Find a sub-word                                       |     🟢     |    **10**    | [Show](src/Regex/28/) |
+|    29     | Alien username                                        |     🟢     |    **10**    | [Show](src/Regex/29/) |
+|    30     | IP address validation                                 |     🟢     |    **10**    | [Show](src/Regex/30/) |
+|    31     | Find a word                                           |     🟠     |    **15**    | [Show](src/Regex/31/) |
+|    32     | Detect the email address                              |     🟠     |    **15**    | [Show](src/Regex/32/) |
+|    33     | Detect the domain name                                |     🟠     |    **15**    | [Show](src/Regex/33/) |
+|    34     | Building a smart IDE - Identifying comments           |     🟠     |    **20**    | [Show](src/Regex/34/) |
+|    35     | Detecting valid latitude and longitude pairs          |     🟢     |    **20**    | [Show](src/Regex/35/) |
+|    36     | HackerRank tweets                                     |     🟢     |    **15**    | [Show](src/Regex/36/) |
+|    37     | Build a stack exchange scraper                        |     🟢     |    **15**    | [Show](src/Regex/37/) |
+|    38     | Utopian identification number                         |     🟢     |    **15**    | [Show](src/Regex/38/) |
+|    39     | Valid PAN format                                      |     🟢     |    **15**    | [Show](src/Regex/39/) |
+|    40     | Find HackerRank                                       |     🟢     |    **15**    | [Show](src/Regex/40/) |
+|    41     | Saying hi                                             |     🟢     |    **15**    | [Show](src/Regex/41/) |
+|    42     | HackerRank language                                   |     🟢     |    **15**    | [Show](src/Regex/42/) |
+|    43     | Building a smart IDE - Programming language detection |     🟢     |    **30**    | [Show](src/Regex/43/) |
+|    44     | Split the phone numbers                               |     🟢     |    **15**    | [Show](src/Regex/44/) |
+|    45     | Detect HTML attributes                                |     🟢     |    **20**    | [Show](src/Regex/45/) |
+|    46     | The British and American style of spelling            |     🟢     |    **15**    | [Show](src/Regex/46/) |
+|    47     | UK and US (part 2)                                    |     🟢     |    **10**    | [Show](src/Regex/47/) |
+| **Total** |                                                       |   **/**    |   **710**    |         **/**         |
 
 ### Security
 

@@ -1,10 +1,10 @@
 import fn from "./solution.ts"
 import { expect, test, describe } from "bun:test"
 
-describe("Challenge 29: Valid PAN format", () => {
+describe("Challenge 29: Alien username", () => {
 	test("Test 01", () => {
-		const received = fn(["ABCDS1234Y", "ABAB12345Y", "avCDS1234Y"])
-		const expected = ["YES", "NO", "NO"]
+		const received = fn(["_0898989811abced_", "_abce", "_09090909abcD0"])
+		const expected = ["VALID", "INVALID", "INVALID"]
 		expect(received).toStrictEqual(expected)
 	})
 })

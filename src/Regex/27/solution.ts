@@ -1,12 +1,17 @@
-export default function regex(text: string, sequences: string[]) {
-	const results: number[] = []
+export default function regex(text: string[]) {
+	const matches = new Set<string>()
 
-	for (const sequence of sequences) {
-		const regex = new RegExp(`(?<=\\w)${sequence}(?=\\w)`, "g")
-		const matches = text.match(regex)
+	for (const line of text) {
+		const match = line.match(/(?<=<)[^/ >]+/g)
+		if (!match) continue
 
-		results.push(matches?.length ?? 0)
+		for (const tag of match) {
+			matches.add(tag)
+		}
 	}
 
-	return results
+	const _matches = Array.from(matches.values())
+	_matches.sort()
+
+	return _matches.join(";")
 }

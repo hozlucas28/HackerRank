@@ -1,9 +1,11 @@
-export default function main(usernames: string[]) {
-	const regex = new RegExp(/^[_.]\d+[a-zA-Z]*_?$/)
-	const results: string[] = []
+export default function regex(text: string, sequences: string[]) {
+	const results: number[] = []
 
-	for (const username of usernames) {
-		results.push(regex.test(username) ? "VALID" : "INVALID")
+	for (const sequence of sequences) {
+		const regex = new RegExp(`(?<=\\w)${sequence}(?=\\w)`, "g")
+		const matches = text.match(regex)
+
+		results.push(matches?.length ?? 0)
 	}
 
 	return results

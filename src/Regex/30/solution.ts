@@ -1,18 +1,17 @@
-export default function regex(lines: string[]) {
-	const starts = new RegExp(/^hackerrank/)
-	const ends = new RegExp(/hackerrank$/)
-
+export default function regex(lines: string[]): string[] {
 	const results: string[] = []
 
 	for (const line of lines) {
-		if (starts.test(line) && ends.test(line)) {
-			results.push("0")
-		} else if (starts.test(line)) {
-			results.push("1")
-		} else if (ends.test(line)) {
-			results.push("2")
+		if (
+			line.match(
+				/^(?:(?:(?:0?[0-9]{1,2})|(?:1[0-9]{2})|(?:2[0-5]{2}))\.){3}(?:(?:(?:0?[0-9]{1,2})|(?:1[0-9]{2})|(?:2[0-5]{2})))$/
+			)
+		) {
+			results.push("IPv4")
+		} else if (line.match(/^(?:[a-fA-F0-9]{1,4}:){7}[a-fA-F0-9]{1,4}$/)) {
+			results.push("IPv6")
 		} else {
-			results.push("-1")
+			results.push("Neither")
 		}
 	}
 

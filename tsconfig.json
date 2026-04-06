@@ -1,6 +1,9 @@
 {
 	"exclude": ["src/security"],
 	"compilerOptions": {
+		// Global types
+		"types": ["bun-types"],
+
 		// Environment setup & latest features
 		"lib": ["DOM", "ESNext"],
 		"target": "ESNext",
