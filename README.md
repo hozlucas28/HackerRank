@@ -116,6 +116,7 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    52     | Placements                                 |     🟠     |    **40**    | [Show](src/SQL/52/) |
 |    53     | Symmetric pairs                            |     🟠     |    **40**    | [Show](src/SQL/53/) |
 |    54     | Interviews                                 |     🔴     |    **50**    | [Show](src/SQL/54/) |
+|    55     | 15 days of learning SQL                    |     🔴     |    **50**    | [Show](src/SQL/55/) |
 |    56     | Draw the triangle 1                        |     🟢     |    **25**    | [Show](src/SQL/56/) |
 |    57     | Draw the triangle 2                        |     🟢     |    **25**    | [Show](src/SQL/57/) |
 |    58     | Print prime numbers                        |     🟠     |    **40**    | [Show](src/SQL/58/) |
