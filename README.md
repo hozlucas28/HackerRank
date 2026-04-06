@@ -118,7 +118,8 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    54     | Interviews                                 |     🔴     |    **50**    | [Show](src/SQL/54/) |
 |    56     | Draw the triangle 1                        |     🟢     |    **25**    | [Show](src/SQL/56/) |
 |    57     | Draw the triangle 2                        |     🟢     |    **25**    | [Show](src/SQL/57/) |
-| **Total** |                                            |   **/**    |   **1040**   |        **/**        |
+|    58     | Print prime numbers                        |     🟠     |    **40**    | [Show](src/SQL/58/) |
+| **Total** |                                            |   **/**    |   **1080**   |        **/**        |
 
 ### Regex
 
