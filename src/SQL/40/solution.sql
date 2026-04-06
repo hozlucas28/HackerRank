@@ -1,0 +1,22 @@
+
+WITH
+	POINTS
+	AS
+	(
+		SELECT
+			MIN(LAT_N) AS a,
+			MIN(LONG_W) AS b,
+			MAX(LAT_N) AS c,
+			MAX(LONG_W) AS d
+		FROM
+			STATION
+	)
+
+SELECT
+	CAST(ROUND(
+    ABS(c-a) + ABS(d-b),
+    4
+) AS DECIMAL(10,4)) AS DISTANCE
+FROM
+	POINTS
+

@@ -1,0 +1,19 @@
+
+WITH
+	Median
+	AS
+	(
+		SELECT
+			DISTINCT
+			( PERCENTILE_CONT(0.5) WITHIN GROUP(ORDER BY LAT_N) OVER()) AS median
+		FROM
+			STATION
+	)
+
+SELECT
+	CAST(
+        ROUND(median, 4) AS DECIMAL(10, 4)
+    )
+FROM
+	Median
+

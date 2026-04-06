@@ -101,7 +101,22 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 |    37     | Weather observation station 15             |     🟢     |    **15**    | [Show](src/SQL/37/) |
 |    38     | Weather observation station 16             |     🟢     |    **10**    | [Show](src/SQL/38/) |
 |    39     | Weather observation station 17             |     🟢     |    **15**    | [Show](src/SQL/39/) |
-| **Total** |                                            |   **/**    |   **555**    |        **/**        |
+|    40     | Weather observation station 18             |     🟠     |    **25**    | [Show](src/SQL/40/) |
+|    41     | Weather observation station 19             |     🟠     |    **30**    | [Show](src/SQL/41/) |
+|    42     | Weather observation station 20             |     🟠     |    **40**    | [Show](src/SQL/42/) |
+|    43     | Population census                          |     🟢     |    **10**    | [Show](src/SQL/43/) |
+|    44     | African cities                             |     🟢     |    **10**    | [Show](src/SQL/44/) |
+|    45     | Average population of each continent       |     🟢     |    **10**    | [Show](src/SQL/45/) |
+|    46     | The report                                 |     🟠     |    **20**    | [Show](src/SQL/46/) |
+|    47     | Top competitors                            |     🟠     |    **30**    | [Show](src/SQL/47/) |
+|    48     | Ollivander's inventory                     |     🟠     |    **30**    | [Show](src/SQL/48/) |
+|    49     | Challenges                                 |     🟠     |    **30**    | [Show](src/SQL/49/) |
+|    50     | Contest leaderboard                        |     🟠     |    **30**    | [Show](src/SQL/50/) |
+|    51     | SQL project planning                       |     🟠     |    **40**    | [Show](src/SQL/51/) |
+|    52     | Placements                                 |     🟠     |    **40**    | [Show](src/SQL/52/) |
+|    53     | Symmetric pairs                            |     🟠     |    **40**    | [Show](src/SQL/53/) |
+|    54     | Interviews                                 |     🔴     |    **50**    | [Show](src/SQL/54/) |
+| **Total** |                                            |   **/**    |   **990**    |        **/**        |
 
 ### Regex
 
