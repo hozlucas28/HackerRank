@@ -60,138 +60,138 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 ### SQL
 
-|     #     | Challenge                                  | Difficulty | Score earned |     Description     |
-| :-------: | ------------------------------------------ | :--------: | :----------: | :-----------------: |
-|    01     | Revising the select query I                |     🟢     |    **10**    | [Show](src/SQL/01/) |
-|    02     | Revising the select query II               |     🟢     |    **10**    | [Show](src/SQL/02/) |
-|    03     | Select all                                 |     🟢     |    **10**    | [Show](src/SQL/03/) |
-|    04     | Select by ID                               |     🟢     |    **10**    | [Show](src/SQL/04/) |
-|    05     | Japanese cities' attributes                |     🟢     |    **10**    | [Show](src/SQL/05/) |
-|    06     | Japanese cities' names                     |     🟢     |    **10**    | [Show](src/SQL/06/) |
-|    07     | Weather observation station 1              |     🟢     |    **15**    | [Show](src/SQL/07/) |
-|    08     | Weather observation station 2              |     🟢     |    **15**    | [Show](src/SQL/08/) |
-|    09     | Weather observation station 3              |     🟢     |    **10**    | [Show](src/SQL/09/) |
-|    10     | Weather observation station 4              |     🟢     |    **10**    | [Show](src/SQL/10/) |
-|    11     | Weather observation station 5              |     🟢     |    **30**    | [Show](src/SQL/11/) |
-|    12     | Weather observation station 6              |     🟢     |    **10**    | [Show](src/SQL/12/) |
-|    13     | Weather Observation Station 7              |     🟢     |    **10**    | [Show](src/SQL/13/) |
-|    14     | Weather observation station 8              |     🟢     |    **15**    | [Show](src/SQL/14/) |
-|    15     | Weather observation station 9              |     🟢     |    **10**    | [Show](src/SQL/15/) |
-|    16     | Weather observation station 10             |     🟢     |    **10**    | [Show](src/SQL/16/) |
-|    17     | Weather observation station 11             |     🟢     |    **15**    | [Show](src/SQL/17/) |
-|    18     | Weather observation station 12             |     🟢     |    **15**    | [Show](src/SQL/18/) |
-|    19     | Higher than 75 marks                       |     🟢     |    **15**    | [Show](src/SQL/19/) |
-|    20     | Employee names                             |     🟢     |    **10**    | [Show](src/SQL/20/) |
-|    21     | Employee salaries                          |     🟢     |    **10**    | [Show](src/SQL/21/) |
-|    22     | Type of triangle                           |     🟢     |    **20**    | [Show](src/SQL/22/) |
-|    23     | The PADS                                   |     🟠     |    **30**    | [Show](src/SQL/23/) |
-|    24     | Occupations                                |     🟠     |    **30**    | [Show](src/SQL/24/) |
-|    25     | Binary tree nodes                          |     🟠     |    **30**    | [Show](src/SQL/25/) |
-|    26     | New companies                              |     🟠     |    **30**    | [Show](src/SQL/26/) |
-|    27     | Revising aggregations - The sum function   |     🟢     |    **10**    | [Show](src/SQL/27/) |
-|    28     | Revising aggregations - Averages           |     🟢     |    **10**    | [Show](src/SQL/28/) |
-|    29     | Average population                         |     🟢     |    **10**    | [Show](src/SQL/29/) |
-|    30     | Japan population                           |     🟢     |    **10**    | [Show](src/SQL/30/) |
-|    31     | Population density difference              |     🟢     |    **10**    | [Show](src/SQL/31/) |
-|    32     | Revising aggregations - The count function |     🟢     |    **10**    | [Show](src/SQL/32/) |
-|    33     | The blunder                                |     🟢     |    **15**    | [Show](src/SQL/33/) |
-|    34     | Top earners                                |     🟢     |    **20**    | [Show](src/SQL/34/) |
-|    35     | Weather observation station 13             |     🟢     |    **10**    | [Show](src/SQL/35/) |
-|    36     | Weather observation station 14             |     🟢     |    **10**    | [Show](src/SQL/36/) |
-|    37     | Weather observation station 15             |     🟢     |    **15**    | [Show](src/SQL/37/) |
-|    38     | Weather observation station 16             |     🟢     |    **10**    | [Show](src/SQL/38/) |
-|    39     | Weather observation station 17             |     🟢     |    **15**    | [Show](src/SQL/39/) |
-|    40     | Weather observation station 18             |     🟠     |    **25**    | [Show](src/SQL/40/) |
-|    41     | Weather observation station 19             |     🟠     |    **30**    | [Show](src/SQL/41/) |
-|    42     | Weather observation station 20             |     🟠     |    **40**    | [Show](src/SQL/42/) |
-|    43     | Population census                          |     🟢     |    **10**    | [Show](src/SQL/43/) |
-|    44     | African cities                             |     🟢     |    **10**    | [Show](src/SQL/44/) |
-|    45     | Average population of each continent       |     🟢     |    **10**    | [Show](src/SQL/45/) |
-|    46     | The report                                 |     🟠     |    **20**    | [Show](src/SQL/46/) |
-|    47     | Top competitors                            |     🟠     |    **30**    | [Show](src/SQL/47/) |
-|    48     | Ollivander's inventory                     |     🟠     |    **30**    | [Show](src/SQL/48/) |
-|    49     | Challenges                                 |     🟠     |    **30**    | [Show](src/SQL/49/) |
-|    50     | Contest leaderboard                        |     🟠     |    **30**    | [Show](src/SQL/50/) |
-|    51     | SQL project planning                       |     🟠     |    **40**    | [Show](src/SQL/51/) |
-|    52     | Placements                                 |     🟠     |    **40**    | [Show](src/SQL/52/) |
-|    53     | Symmetric pairs                            |     🟠     |    **40**    | [Show](src/SQL/53/) |
-|    54     | Interviews                                 |     🔴     |    **50**    | [Show](src/SQL/54/) |
-|    55     | 15 days of learning SQL                    |     🔴     |    **50**    | [Show](src/SQL/55/) |
-|    56     | Draw the triangle 1                        |     🟢     |    **25**    | [Show](src/SQL/56/) |
-|    57     | Draw the triangle 2                        |     🟢     |    **25**    | [Show](src/SQL/57/) |
-|    58     | Print prime numbers                        |     🟠     |    **40**    | [Show](src/SQL/58/) |
-| **Total** |                                            |   **/**    |   **1080**   |        **/**        |
+|     #     | Challenge                                  | Difficulty |  Score earned   |     Description     |
+| :-------: | ------------------------------------------ | :--------: | :-------------: | :-----------------: |
+|    01     | Revising the select query I                |     🟢     |     **10**      | [Show](src/SQL/01/) |
+|    02     | Revising the select query II               |     🟢     |     **10**      | [Show](src/SQL/02/) |
+|    03     | Select all                                 |     🟢     |     **10**      | [Show](src/SQL/03/) |
+|    04     | Select by ID                               |     🟢     |     **10**      | [Show](src/SQL/04/) |
+|    05     | Japanese cities' attributes                |     🟢     |     **10**      | [Show](src/SQL/05/) |
+|    06     | Japanese cities' names                     |     🟢     |     **10**      | [Show](src/SQL/06/) |
+|    07     | Weather observation station 1              |     🟢     |     **15**      | [Show](src/SQL/07/) |
+|    08     | Weather observation station 2              |     🟢     |     **15**      | [Show](src/SQL/08/) |
+|    09     | Weather observation station 3              |     🟢     |     **10**      | [Show](src/SQL/09/) |
+|    10     | Weather observation station 4              |     🟢     |     **10**      | [Show](src/SQL/10/) |
+|    11     | Weather observation station 5              |     🟢     |     **30**      | [Show](src/SQL/11/) |
+|    12     | Weather observation station 6              |     🟢     |     **10**      | [Show](src/SQL/12/) |
+|    13     | Weather Observation Station 7              |     🟢     |     **10**      | [Show](src/SQL/13/) |
+|    14     | Weather observation station 8              |     🟢     |     **15**      | [Show](src/SQL/14/) |
+|    15     | Weather observation station 9              |     🟢     |     **10**      | [Show](src/SQL/15/) |
+|    16     | Weather observation station 10             |     🟢     |     **10**      | [Show](src/SQL/16/) |
+|    17     | Weather observation station 11             |     🟢     |     **15**      | [Show](src/SQL/17/) |
+|    18     | Weather observation station 12             |     🟢     |     **15**      | [Show](src/SQL/18/) |
+|    19     | Higher than 75 marks                       |     🟢     |     **15**      | [Show](src/SQL/19/) |
+|    20     | Employee names                             |     🟢     |     **10**      | [Show](src/SQL/20/) |
+|    21     | Employee salaries                          |     🟢     |     **10**      | [Show](src/SQL/21/) |
+|    22     | Type of triangle                           |     🟢     |     **20**      | [Show](src/SQL/22/) |
+|    23     | The PADS                                   |     🟠     |     **30**      | [Show](src/SQL/23/) |
+|    24     | Occupations                                |     🟠     |     **30**      | [Show](src/SQL/24/) |
+|    25     | Binary tree nodes                          |     🟠     |     **30**      | [Show](src/SQL/25/) |
+|    26     | New companies                              |     🟠     |     **30**      | [Show](src/SQL/26/) |
+|    27     | Revising aggregations - The sum function   |     🟢     |     **10**      | [Show](src/SQL/27/) |
+|    28     | Revising aggregations - Averages           |     🟢     |     **10**      | [Show](src/SQL/28/) |
+|    29     | Average population                         |     🟢     |     **10**      | [Show](src/SQL/29/) |
+|    30     | Japan population                           |     🟢     |     **10**      | [Show](src/SQL/30/) |
+|    31     | Population density difference              |     🟢     |     **10**      | [Show](src/SQL/31/) |
+|    32     | Revising aggregations - The count function |     🟢     |     **10**      | [Show](src/SQL/32/) |
+|    33     | The blunder                                |     🟢     |     **15**      | [Show](src/SQL/33/) |
+|    34     | Top earners                                |     🟢     |     **20**      | [Show](src/SQL/34/) |
+|    35     | Weather observation station 13             |     🟢     |     **10**      | [Show](src/SQL/35/) |
+|    36     | Weather observation station 14             |     🟢     |     **10**      | [Show](src/SQL/36/) |
+|    37     | Weather observation station 15             |     🟢     |     **15**      | [Show](src/SQL/37/) |
+|    38     | Weather observation station 16             |     🟢     |     **10**      | [Show](src/SQL/38/) |
+|    39     | Weather observation station 17             |     🟢     |     **15**      | [Show](src/SQL/39/) |
+|    40     | Weather observation station 18             |     🟠     |     **25**      | [Show](src/SQL/40/) |
+|    41     | Weather observation station 19             |     🟠     |     **30**      | [Show](src/SQL/41/) |
+|    42     | Weather observation station 20             |     🟠     |     **40**      | [Show](src/SQL/42/) |
+|    43     | Population census                          |     🟢     |     **10**      | [Show](src/SQL/43/) |
+|    44     | African cities                             |     🟢     |     **10**      | [Show](src/SQL/44/) |
+|    45     | Average population of each continent       |     🟢     |     **10**      | [Show](src/SQL/45/) |
+|    46     | The report                                 |     🟠     |     **20**      | [Show](src/SQL/46/) |
+|    47     | Top competitors                            |     🟠     |     **30**      | [Show](src/SQL/47/) |
+|    48     | Ollivander's inventory                     |     🟠     |     **30**      | [Show](src/SQL/48/) |
+|    49     | Challenges                                 |     🟠     |     **30**      | [Show](src/SQL/49/) |
+|    50     | Contest leaderboard                        |     🟠     |     **30**      | [Show](src/SQL/50/) |
+|    51     | SQL project planning                       |     🟠     |     **40**      | [Show](src/SQL/51/) |
+|    52     | Placements                                 |     🟠     |     **40**      | [Show](src/SQL/52/) |
+|    53     | Symmetric pairs                            |     🟠     |     **40**      | [Show](src/SQL/53/) |
+|    54     | Interviews                                 |     🔴     |     **50**      | [Show](src/SQL/54/) |
+|    55     | 15 days of learning SQL                    |     🔴     |     **50**      | [Show](src/SQL/55/) |
+|    56     | Draw the triangle 1                        |     🟢     |     **25**      | [Show](src/SQL/56/) |
+|    57     | Draw the triangle 2                        |     🟢     |     **25**      | [Show](src/SQL/57/) |
+|    58     | Print prime numbers                        |     🟠     |     **40**      | [Show](src/SQL/58/) |
+| **Total** |                                            |   **/**    | **1080 / 1080** |        **/**        |
 
 ### Regex
 
-|     #     | Challenge                                             | Difficulty | Score earned |      Description      |
-| :-------: | ----------------------------------------------------- | :--------: | :----------: | :-------------------: |
-|    01     | Matching specific string                              |     🟢     |    **5**     | [Show](src/Regex/01/) |
-|    02     | Matching anything but a newline                       |     🟢     |    **5**     | [Show](src/Regex/02/) |
-|    03     | Matching digits & non-digit characters                |     🟢     |    **5**     | [Show](src/Regex/03/) |
-|    04     | Matching whitespace & non-whitespace character        |     🟢     |    **5**     | [Show](src/Regex/04/) |
-|    05     | Matching word & non-word character                    |     🟢     |    **5**     | [Show](src/Regex/05/) |
-|    06     | Matching start & end                                  |     🟢     |    **5**     | [Show](src/Regex/06/) |
-|    07     | Matching specific characters                          |     🟢     |    **10**    | [Show](src/Regex/07/) |
-|    08     | Excluding specific characters                         |     🟢     |    **10**    | [Show](src/Regex/08/) |
-|    09     | Matching character ranges                             |     🟢     |    **10**    | [Show](src/Regex/09/) |
-|    10     | Matching {x} repetitions                              |     🟢     |    **20**    | [Show](src/Regex/10/) |
-|    11     | Matching {x, y} repetitions                           |     🟢     |    **20**    | [Show](src/Regex/11/) |
-|    12     | Matching zero or more repetitions                     |     🟢     |    **20**    | [Show](src/Regex/12/) |
-|    13     | Matching one or more repetitions                      |     🟢     |    **20**    | [Show](src/Regex/13/) |
-|    14     | Matching ending items                                 |     🟢     |    **20**    | [Show](src/Regex/14/) |
-|    15     | Matching word boundaries                              |     🟢     |    **20**    | [Show](src/Regex/15/) |
-|    16     | Capturing & non-capturing groups                      |     🟢     |    **20**    | [Show](src/Regex/16/) |
-|    17     | Alternative matching                                  |     🟢     |    **20**    | [Show](src/Regex/17/) |
-|    18     | Matching same text again & again                      |     🟢     |    **20**    | [Show](src/Regex/18/) |
-|    19     | Backreferences to failed groups                       |     🟢     |    **20**    | [Show](src/Regex/19/) |
-|    20     | Branch reset groups                                   |     🟢     |    **20**    | [Show](src/Regex/20/) |
-|    21     | Forward references                                    |     🟢     |    **20**    | [Show](src/Regex/21/) |
-|    22     | Positive lookahead                                    |     🟢     |    **20**    | [Show](src/Regex/22/) |
-|    23     | Negative lookahead                                    |     🟢     |    **20**    | [Show](src/Regex/23/) |
-|    24     | Positive lookbehind                                   |     🟢     |    **20**    | [Show](src/Regex/24/) |
-|    25     | Negative lookbehind                                   |     🟢     |    **20**    | [Show](src/Regex/25/) |
-|    26     | Detect HTML links                                     |     🟠     |    **10**    | [Show](src/Regex/26/) |
-|    27     | Detect HTML tags                                      |     🟢     |    **10**    | [Show](src/Regex/27/) |
-|    28     | Find a sub-word                                       |     🟢     |    **10**    | [Show](src/Regex/28/) |
-|    29     | Alien username                                        |     🟢     |    **10**    | [Show](src/Regex/29/) |
-|    30     | IP address validation                                 |     🟢     |    **10**    | [Show](src/Regex/30/) |
-|    31     | Find a word                                           |     🟠     |    **15**    | [Show](src/Regex/31/) |
-|    32     | Detect the email address                              |     🟠     |    **15**    | [Show](src/Regex/32/) |
-|    33     | Detect the domain name                                |     🟠     |    **15**    | [Show](src/Regex/33/) |
-|    34     | Building a smart IDE - Identifying comments           |     🟠     |    **20**    | [Show](src/Regex/34/) |
-|    35     | Detecting valid latitude and longitude pairs          |     🟢     |    **20**    | [Show](src/Regex/35/) |
-|    36     | HackerRank tweets                                     |     🟢     |    **15**    | [Show](src/Regex/36/) |
-|    37     | Build a stack exchange scraper                        |     🟢     |    **15**    | [Show](src/Regex/37/) |
-|    38     | Utopian identification number                         |     🟢     |    **15**    | [Show](src/Regex/38/) |
-|    39     | Valid PAN format                                      |     🟢     |    **15**    | [Show](src/Regex/39/) |
-|    40     | Find HackerRank                                       |     🟢     |    **15**    | [Show](src/Regex/40/) |
-|    41     | Saying hi                                             |     🟢     |    **15**    | [Show](src/Regex/41/) |
-|    42     | HackerRank language                                   |     🟢     |    **15**    | [Show](src/Regex/42/) |
-|    43     | Building a smart IDE - Programming language detection |     🟢     |    **30**    | [Show](src/Regex/43/) |
-|    44     | Split the phone numbers                               |     🟢     |    **15**    | [Show](src/Regex/44/) |
-|    45     | Detect HTML attributes                                |     🟢     |    **20**    | [Show](src/Regex/45/) |
-|    46     | The British and American style of spelling            |     🟢     |    **15**    | [Show](src/Regex/46/) |
-|    47     | UK and US (part 2)                                    |     🟢     |    **10**    | [Show](src/Regex/47/) |
-| **Total** |                                                       |   **/**    |   **710**    |         **/**         |
+|     #     | Challenge                                             | Difficulty | Score earned  |      Description      |
+| :-------: | ----------------------------------------------------- | :--------: | :-----------: | :-------------------: |
+|    01     | Matching specific string                              |     🟢     |     **5**     | [Show](src/Regex/01/) |
+|    02     | Matching anything but a newline                       |     🟢     |     **5**     | [Show](src/Regex/02/) |
+|    03     | Matching digits & non-digit characters                |     🟢     |     **5**     | [Show](src/Regex/03/) |
+|    04     | Matching whitespace & non-whitespace character        |     🟢     |     **5**     | [Show](src/Regex/04/) |
+|    05     | Matching word & non-word character                    |     🟢     |     **5**     | [Show](src/Regex/05/) |
+|    06     | Matching start & end                                  |     🟢     |     **5**     | [Show](src/Regex/06/) |
+|    07     | Matching specific characters                          |     🟢     |    **10**     | [Show](src/Regex/07/) |
+|    08     | Excluding specific characters                         |     🟢     |    **10**     | [Show](src/Regex/08/) |
+|    09     | Matching character ranges                             |     🟢     |    **10**     | [Show](src/Regex/09/) |
+|    10     | Matching {x} repetitions                              |     🟢     |    **20**     | [Show](src/Regex/10/) |
+|    11     | Matching {x, y} repetitions                           |     🟢     |    **20**     | [Show](src/Regex/11/) |
+|    12     | Matching zero or more repetitions                     |     🟢     |    **20**     | [Show](src/Regex/12/) |
+|    13     | Matching one or more repetitions                      |     🟢     |    **20**     | [Show](src/Regex/13/) |
+|    14     | Matching ending items                                 |     🟢     |    **20**     | [Show](src/Regex/14/) |
+|    15     | Matching word boundaries                              |     🟢     |    **20**     | [Show](src/Regex/15/) |
+|    16     | Capturing & non-capturing groups                      |     🟢     |    **20**     | [Show](src/Regex/16/) |
+|    17     | Alternative matching                                  |     🟢     |    **20**     | [Show](src/Regex/17/) |
+|    18     | Matching same text again & again                      |     🟢     |    **20**     | [Show](src/Regex/18/) |
+|    19     | Backreferences to failed groups                       |     🟢     |    **20**     | [Show](src/Regex/19/) |
+|    20     | Branch reset groups                                   |     🟢     |    **20**     | [Show](src/Regex/20/) |
+|    21     | Forward references                                    |     🟢     |    **20**     | [Show](src/Regex/21/) |
+|    22     | Positive lookahead                                    |     🟢     |    **20**     | [Show](src/Regex/22/) |
+|    23     | Negative lookahead                                    |     🟢     |    **20**     | [Show](src/Regex/23/) |
+|    24     | Positive lookbehind                                   |     🟢     |    **20**     | [Show](src/Regex/24/) |
+|    25     | Negative lookbehind                                   |     🟢     |    **20**     | [Show](src/Regex/25/) |
+|    26     | Detect HTML links                                     |     🟠     |    **10**     | [Show](src/Regex/26/) |
+|    27     | Detect HTML tags                                      |     🟢     |    **10**     | [Show](src/Regex/27/) |
+|    28     | Find a sub-word                                       |     🟢     |    **10**     | [Show](src/Regex/28/) |
+|    29     | Alien username                                        |     🟢     |    **10**     | [Show](src/Regex/29/) |
+|    30     | IP address validation                                 |     🟢     |    **10**     | [Show](src/Regex/30/) |
+|    31     | Find a word                                           |     🟠     |    **15**     | [Show](src/Regex/31/) |
+|    32     | Detect the email address                              |     🟠     |    **15**     | [Show](src/Regex/32/) |
+|    33     | Detect the domain name                                |     🟠     |    **15**     | [Show](src/Regex/33/) |
+|    34     | Building a smart IDE - Identifying comments           |     🟠     |    **20**     | [Show](src/Regex/34/) |
+|    35     | Detecting valid latitude and longitude pairs          |     🟢     |    **20**     | [Show](src/Regex/35/) |
+|    36     | HackerRank tweets                                     |     🟢     |    **15**     | [Show](src/Regex/36/) |
+|    37     | Build a stack exchange scraper                        |     🟢     |    **15**     | [Show](src/Regex/37/) |
+|    38     | Utopian identification number                         |     🟢     |    **15**     | [Show](src/Regex/38/) |
+|    39     | Valid PAN format                                      |     🟢     |    **15**     | [Show](src/Regex/39/) |
+|    40     | Find HackerRank                                       |     🟢     |    **15**     | [Show](src/Regex/40/) |
+|    41     | Saying hi                                             |     🟢     |    **15**     | [Show](src/Regex/41/) |
+|    42     | HackerRank language                                   |     🟢     |    **15**     | [Show](src/Regex/42/) |
+|    43     | Building a smart IDE - Programming language detection |     🟢     |    **30**     | [Show](src/Regex/43/) |
+|    44     | Split the phone numbers                               |     🟢     |    **15**     | [Show](src/Regex/44/) |
+|    45     | Detect HTML attributes                                |     🟢     |    **20**     | [Show](src/Regex/45/) |
+|    46     | The British and American style of spelling            |     🟢     |    **15**     | [Show](src/Regex/46/) |
+|    47     | UK and US (part 2)                                    |     🟢     |    **10**     | [Show](src/Regex/47/) |
+| **Total** |                                                       |   **/**    | **710 / 710** |         **/**         |
 
 ### Security
 
-|     #     | Challenge                          | Difficulty | Score earned |       Description        |
-| :-------: | ---------------------------------- | :--------: | :----------: | :----------------------: |
-|    01     | Functions (I)                      |     🟢     |    **5**     | [Show](src/Security/01/) |
-|    02     | Functions (II)                     |     🟢     |    **5**     | [Show](src/Security/02/) |
-|    03     | Bijective functions                |     🟢     |    **10**    | [Show](src/Security/03/) |
-|    04     | Function inverses                  |     🟢     |    **10**    | [Show](src/Security/04/) |
-|    05     | Permutations                       |     🟢     |    **10**    | [Show](src/Security/05/) |
-|    06     | Involution                         |     🟢     |    **10**    | [Show](src/Security/06/) |
-|    07     | Message space and ciphertext space |     🟢     |    **10**    | [Show](src/Security/07/) |
-|    08     | Key spaces                         |     🟢     |    **10**    | [Show](src/Security/08/) |
-|    09     | Encryption scheme                  |     🟢     |    **10**    | [Show](src/Security/09/) |
-|    10     | PRNG sequence guessing             |     🟠     |    **50**    | [Show](src/Security/10/) |
-|    11     | Keyword transposition cipher       |     🟢     |    **50**    | [Show](src/Security/11/) |
-|    12     | Basic cryptanalysis                |     🔴     |    **50**    | [Show](src/Security/12/) |
-| **Total** |                                    |   **/**    |   **230**    |          **/**           |
+|     #     | Challenge                          | Difficulty | Score earned  |       Description        |
+| :-------: | ---------------------------------- | :--------: | :-----------: | :----------------------: |
+|    01     | Functions (I)                      |     🟢     |     **5**     | [Show](src/Security/01/) |
+|    02     | Functions (II)                     |     🟢     |     **5**     | [Show](src/Security/02/) |
+|    03     | Bijective functions                |     🟢     |    **10**     | [Show](src/Security/03/) |
+|    04     | Function inverses                  |     🟢     |    **10**     | [Show](src/Security/04/) |
+|    05     | Permutations                       |     🟢     |    **10**     | [Show](src/Security/05/) |
+|    06     | Involution                         |     🟢     |    **10**     | [Show](src/Security/06/) |
+|    07     | Message space and ciphertext space |     🟢     |    **10**     | [Show](src/Security/07/) |
+|    08     | Key spaces                         |     🟢     |    **10**     | [Show](src/Security/08/) |
+|    09     | Encryption scheme                  |     🟢     |    **10**     | [Show](src/Security/09/) |
+|    10     | PRNG sequence guessing             |     🟠     |    **50**     | [Show](src/Security/10/) |
+|    11     | Keyword transposition cipher       |     🟢     |    **50**     | [Show](src/Security/11/) |
+|    12     | Basic cryptanalysis                |     🔴     |    **50**     | [Show](src/Security/12/) |
+| **Total** |                                    |   **/**    | **230 / 230** |          **/**           |
 
 ### Software Engineer Prepare Kit
 
