@@ -1,33 +1,42 @@
 package main
 
-import "sort"
+func HasCircularDependency(n int32, dependencies [][]int32) bool {
+	numNodes := int(n)
 
-func MergeHighDefinitionIntervals(intervals [][]int32) [][]int32 {
-	if len(intervals) == 0 {
-		return [][]int32{}
+	adjList := make([][]int, numNodes)
+	inDegree := make([]int, numNodes)
+
+	for _, dep := range dependencies {
+		u, v := int(dep[0]), int(dep[1])
+		if u == v {
+			return true
+		}
+
+		adjList[v] = append(adjList[v], u)
+		inDegree[u]++
 	}
 
-	_intervals := make([][]int32, len(intervals))
-	copy(_intervals, intervals)
-
-	sort.Slice(_intervals, func(i int, j int) bool {
-		return _intervals[i][0] < _intervals[j][0]
-	})
-
-	mergedIntervals := [][]int32{_intervals[0]}
-
-	for i := 1; i < len(_intervals); i++ {
-		currentInterval := _intervals[i]
-		lastMergedInterval := mergedIntervals[len(mergedIntervals)-1]
-
-		if currentInterval[0] <= lastMergedInterval[1] {
-			// Overlap intervals
-			lastMergedInterval[1] = max(lastMergedInterval[1], currentInterval[1])
-		} else {
-			// Append interval
-			mergedIntervals = append(mergedIntervals, currentInterval)
+	queue := make([]int, 0)
+	for i := 0; i < numNodes; i++ {
+		if inDegree[i] == 0 {
+			queue = append(queue, i)
 		}
 	}
 
-	return mergedIntervals
+	visitedCount := 0
+
+	for len(queue) > 0 {
+		node := queue[0]
+		queue = queue[1:]
+		visitedCount++
+
+		for _, neighbor := range adjList[node] {
+			inDegree[neighbor]--
+			if inDegree[neighbor] == 0 {
+				queue = append(queue, neighbor)
+			}
+		}
+	}
+
+	return visitedCount != numNodes
 }

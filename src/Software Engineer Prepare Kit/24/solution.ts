@@ -1,20 +1,31 @@
-export default function fn(intervals: number[][]): number[][] {
-	if (!intervals.length) return []
+export default function hasCircularDependency(n: number, dependencies: number[][]): boolean {
+	const adjList: number[][] = Array.from({ length: n }, () => [])
+	const inDegree: number[] = Array.from({ length: n }, () => 0)
 
-	const _intervals = intervals.toSorted((a, b) => a[0]! - b[0]!) as [number, number][]
-	const mergedIntervals = [_intervals.shift()!]
+	for (const [u, v] of dependencies) {
+		if (u === v) return true
 
-	for (const currentInterval of _intervals) {
-		const lastMergedInterval = mergedIntervals.at(-1)!
+		adjList[v].push(u)
+		inDegree[u]++
+	}
 
-		if (currentInterval[0] <= lastMergedInterval[1]) {
-			// Overlap intervals
-			lastMergedInterval[1] = Math.max(currentInterval[1], lastMergedInterval[1])
-		} else {
-			// Append interval
-			mergedIntervals.push(currentInterval)
+	const queue: number[] = []
+	for (let i = 0; i < n; i++) {
+		if (inDegree[i] === 0) queue.push(i)
+	}
+
+	let head = 0
+	let visitedCount = 0
+
+	while (head < queue.length) {
+		const node = queue[head++]
+		visitedCount++
+
+		for (const neighbor of adjList[node]) {
+			inDegree[neighbor]--
+			if (inDegree[neighbor] === 0) queue.push(neighbor)
 		}
 	}
 
-	return mergedIntervals
+	return visitedCount !== n
 }

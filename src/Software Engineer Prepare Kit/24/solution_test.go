@@ -6,30 +6,38 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestMergeHighDefinitionIntervals(t *testing.T) {
+func TestFn(t *testing.T) {
 	t.Parallel()
 
 	t.Run("Test 01", func(t *testing.T) {
 		t.Parallel()
 
-		actual := MergeHighDefinitionIntervals([][]int32{})
-		expected := make([][]int32, 0)
+		actual := HasCircularDependency(4, [][]int32{{1, 0}, {2, 1}, {3, 2}})
+		var expected bool = false
 		assert.Equal(t, expected, actual)
 	})
 
 	t.Run("Test 02", func(t *testing.T) {
 		t.Parallel()
 
-		actual := MergeHighDefinitionIntervals([][]int32{{5, 10}})
-		expected := [][]int32{{5, 10}}
+		actual := HasCircularDependency(4, [][]int32{{1, 0}, {2, 1}, {0, 2}})
+		var expected bool = true
 		assert.Equal(t, expected, actual)
 	})
 
 	t.Run("Test 03", func(t *testing.T) {
 		t.Parallel()
 
-		actual := MergeHighDefinitionIntervals([][]int32{{1, 3}, {2, 6}, {8, 10}, {15, 18}})
-		expected := [][]int32{{1, 6}, {8, 10}, {15, 18}}
+		actual := HasCircularDependency(1, [][]int32{})
+		var expected bool = false
+		assert.Equal(t, expected, actual)
+	})
+
+	t.Run("Test 04", func(t *testing.T) {
+		t.Parallel()
+
+		actual := HasCircularDependency(1, [][]int32{{0, 0}})
+		var expected bool = true
 		assert.Equal(t, expected, actual)
 	})
 }

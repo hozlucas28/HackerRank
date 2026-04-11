@@ -1,26 +1,35 @@
-# Challenge 24 - Merge and sort intervals
+# Challenge 24 - Detect cycle in module dependency graph
 
-Given an array of intervals `[startTime, endTime]`, merge all overlapping intervals and return a sorted array of non-overlapping intervals.
+Given `n` modules labeled `0` to `n-1` and a list of directed edges dependencies where `[u, v]` means module `u` depends on module `v`, return `1` if there is a cycle in the dependency graph, otherwise return `0`.
 
 ```typescript
-mergeHighDefinitionIntervals([
-	[1, 3],
-	[2, 6],
-	[8, 10],
-	[15, 18]
+hasCircularDependency(4, [
+	[1, 0],
+	[2, 1],
+	[3, 2]
 ])
-// 1°) Initialize merged list with first interval [1, 3].
-// 3°) Compare [2, 6] with last merged [1, 3]. They overlap (2 ≤ 3), so merge into [1, 6].
-// 4°) Compare [8, 10] with last merged [1, 6]. No overlap (8 > 6), append [8, 10].
-// 5°) Compare [15, 18] with last merged [8, 10]. No overlap (15 > 10), append [15, 18].
-// 6°) Return [[1, 6], [8, 10], [15, 18]].
+// We have edges 1 → 0, 2 → 1, 3 → 2.
+// This forms a simple chain and no module depends (directly or indirectly) back on itself.
+// There is no cycle in the directed graph, so the function returns 0.
+
+hasCircularDependency(4, [
+	[1, 0],
+	[2, 1],
+	[0, 2]
+]) // 1
+hasCircularDependency(1, []) // 0
+hasCircularDependency(1, [[0, 0]]) // 1
 ```
 
 **Constraints:**
 
-- `0 <= intervals.length <= 100000`
-- `intervals[i].length == 2`
-- `0 <= intervals[i][0] < intervals[i][1] <= 10^9`
+- `1 <= n <= 1000`
+- `0 <= dependencies.length <= n * (n - 1)`
+- For each `i`, `dependencies[i].length == 2`
+- For each `i`, `0 <= dependencies[i][0] < n`
+- For each `i`, `0 <= dependencies[i][1] < n`
+- Dependencies may contain duplicate pairs
+- Self-dependencies (`u == v`) are allowed and count as cycles
 
 ### Solutions
 
