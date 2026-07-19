@@ -19,6 +19,7 @@
 		"lefthook",
 		"LIFEEXPECTANCY",
 		"LOCALNAME",
+		"Multiset",
 		"Ollivander's",
 		"oxfmt",
 		"Permutación",
@@ -45,6 +46,6 @@
 		".gitattributes",
 		".gitignore",
 		"bun.lock",
-		"cspell.json",
+		"cspell.json"
 	]
 }

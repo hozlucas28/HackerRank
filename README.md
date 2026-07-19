@@ -195,35 +195,36 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 ### Software Engineer Prepare Kit
 
-|     #     | Challenge                                             | Difficulty | Score earned |                     Description                     |
-| :-------: | ----------------------------------------------------- | :--------: | :----------: | :-------------------------------------------------: |
-|    01     | Count elements greater than previous average          |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/01/) |
-|    02     | Find the smallest missing positive integer            |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/02/) |
-|    03     | Check palindrome by filtering non-letters             |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/03/) |
-|    04     | Check for non-identical string rotation               |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/04/) |
-|    05     | Target index search                                   |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/05/) |
-|    06     | Find first occurrence                                 |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/06/) |
-|    07     | Maximum number of non-overlapping intervals           |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/07/) |
-|    08     | Validate properly nested brackets                     |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/08/) |
-|    09     | Min-tracking stack implementation                     |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/09/) |
-|    10     | One-pass removal of k-th node from end                |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/10/) |
-|    11     | Count number pairs                                    |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/11/) |
-|    12     | Remove consecutive duplicates from sorted linked list |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/12/) |
-|    13     | Generate valid angle bracket sequences                |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/13/) |
-|    14     | Remove elements within K distance                     |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/14/) |
-|    15     | Two sum                                               |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/15/) |
-|    16     | Check valid anagram                                   |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/16/) |
-|    17     | Lexicographical letter combinations of phone digits   |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/17/) |
-|    18     | Place N cameras without conflict on blocked grid      |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/18/) |
-|    19     | Custom Fibonacci sequence                             |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/19/) |
-|    20     | Ways to fill slots with single or double coverage     |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/20/) |
-|    21     | Count connected components in network                 |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/21/) |
-|    22     | Height of binary search tree                          |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/22/) |
-|    24     | Detect cycle in module dependency graph               |     🟢     |    **50**    | [Show](src/Software%20Engineer%20Prepare%20Kit/24/) |
-|    25     | Merge and sort intervals                              |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/25/) |
-|    31     | Next greater element with position offset             |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/31/) |
-|    34     | Reverse even-indexed nodes and append                 |     🟠     |    **75**    | [Show](src/Software%20Engineer%20Prepare%20Kit/34/) |
-| **Total** |                                                       |   **/**    |   **1375 / 3625**   |                        **/**                        |
+|     #     | Challenge                                             | Difficulty |  Score earned   |                     Description                     |
+| :-------: | ----------------------------------------------------- | :--------: | :-------------: | :-------------------------------------------------: |
+|    01     | Count elements greater than previous average          |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/01/) |
+|    02     | Find the smallest missing positive integer            |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/02/) |
+|    03     | Check palindrome by filtering non-letters             |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/03/) |
+|    04     | Check for non-identical string rotation               |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/04/) |
+|    05     | Target index search                                   |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/05/) |
+|    06     | Find first occurrence                                 |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/06/) |
+|    07     | Maximum number of non-overlapping intervals           |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/07/) |
+|    08     | Validate properly nested brackets                     |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/08/) |
+|    09     | Min-tracking stack implementation                     |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/09/) |
+|    10     | One-pass removal of k-th node from end                |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/10/) |
+|    11     | Count number pairs                                    |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/11/) |
+|    12     | Remove consecutive duplicates from sorted linked list |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/12/) |
+|    13     | Generate valid angle bracket sequences                |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/13/) |
+|    14     | Remove elements within K distance                     |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/14/) |
+|    15     | Two sum                                               |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/15/) |
+|    16     | Check valid anagram                                   |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/16/) |
+|    17     | Lexicographical letter combinations of phone digits   |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/17/) |
+|    18     | Place N cameras without conflict on blocked grid      |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/18/) |
+|    19     | Custom Fibonacci sequence                             |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/19/) |
+|    20     | Ways to fill slots with single or double coverage     |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/20/) |
+|    21     | Count connected components in network                 |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/21/) |
+|    22     | Height of binary search tree                          |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/22/) |
+|    23     | Compare BSTs for equal values but different structure |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/23/) |
+|    24     | Detect cycle in module dependency graph               |     🟢     |     **50**      | [Show](src/Software%20Engineer%20Prepare%20Kit/24/) |
+|    25     | Merge and sort intervals                              |     🟠     |     **75**      | [Show](src/Software%20Engineer%20Prepare%20Kit/25/) |
+|    31     | Next greater element with position offset             |     🟠     |     **75**      | [Show](src/Software%20Engineer%20Prepare%20Kit/31/) |
+|    34     | Reverse even-indexed nodes and append                 |     🟠     |     **75**      | [Show](src/Software%20Engineer%20Prepare%20Kit/34/) |
+| **Total** |                                                       |   **/**    | **1425 / 3625** |                        **/**                        |
 
 ## Related
 
