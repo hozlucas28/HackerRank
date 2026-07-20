@@ -228,6 +228,7 @@ This repository serves as a housing solutions to <a href="https://www.hackerrank
 
 ## Related
 
+- [Learnings](learnings.md)
 - [Solutions of the AdventJS - 2023](https://github.com/hozlucas28/AdventJS-Solutions-2023)
 - [Solutions of the AdventJS - 2024](https://github.com/hozlucas28/AdventJS-Solutions-2024)
 - [Solutions of the AdventJS - 2025](https://github.com/hozlucas28/AdventJS-Solutions-2025)
